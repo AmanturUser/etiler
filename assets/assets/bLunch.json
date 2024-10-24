@@ -63,21 +63,6 @@
 		},
 		{
 			"category": "salads",
-			"name": "Салат Фантазия",
-			"description": "Руккола, шпинат, моцарелла, кукуруза конс. Черри, бальзамический уксус, оливковое масло, вяленые помидоры, киноа, огурцы",
-			"price": "460",
-			"gram": "440гр",
-			"gramKy": "440гр",
-			"gramEn": "440g",
-			"ingr": [],
-			"imagePath": "assets/images/etiler.jpg",
-			"nameEn": "Fantasy Salad",
-			"descriptionEn": "Arugula, spinach, mozzarella, canned corn, cherry tomatoes, balsamic vinegar, olive oil, sun-dried tomatoes, quinoa, cucumbers",
-			"nameKy": "Фантазия салаты",
-			"descriptionKy": "Руккола, шпинат, моцарелла, консервацияланган жүгөрү, черри помидор, бальзамик уксусу, зайтун майы, күнгө кургатылган помидор, киноа, бадыраң"
-		},
-		{
-			"category": "salads",
 			"name": "Равиоли из свеклы",
 			"description": "С начинкой из творожного сыра с чесноком и зеленью. подаётся со свекольным муссом и мякотью апельсина.",
 			"price": "330",
@@ -150,21 +135,6 @@
 			"descriptionEn": "Green salad dressed with special Caesar sauce, garlic, and grated cheese, with crispy croutons and tender chicken breast topped with pesto sauce.",
 			"nameKy": "Цезарь",
 			"descriptionKy": "Атайын Цезарь соусу, сарымсак жана майдаланган сыр, кытырак крест жана песта соусу менен жумшак тоок төшү кошулган жашыл салат."
-		},
-		{
-			"category": "salads",
-			"name": "Цезарь с креветками",
-			"description": "",
-			"price": "630",
-			"gram": "350гр",
-			"gramKy": "350гр",
-			"gramEn": "350g",
-			"ingr": [],
-			"imagePath": "assets/images/etiler.jpg",
-			"nameEn": "Caesar Salad with Shrimp",
-			"descriptionEn": "",
-			"nameKy": "Креветка менен Цезарь",
-			"descriptionKy": ""
 		},
 		{
 			"category": "salads",
@@ -272,21 +242,7 @@
 			"nameKy": "Салат Этилер",
 			"descriptionKy": "Айсберг, салат жалбырагы, Этилер атайын соусу, куурулган уй эти, майдаланган пармезан, черри помидору, песта соусу."
 		},
-		{
-			"category": "salads",
-			"name": "Green salad",
-			"description": "",
-			"price": "315",
-			"gram": "180г",
-			"gramKy": "180г",
-			"gramEn": "180g",
-			"ingr": [],
-			"imagePath": "assets/images/etiler.jpg",
-			"nameEn": "Green salad",
-			"descriptionEn": "",
-			"nameKy": "Green salad",
-			"descriptionKy": ""
-		},
+
 		{
 			"category": "salads",
 			"name": "Салат с печенью трески и авокадо",
@@ -378,6 +334,51 @@
 			"descriptionEn": "Salad with Caramelized Beef: Iceberg lettuce, beetroot, cucumbers, carrots dressed in lemon sauce and caramelized beef",
 			"nameKy": "Карамелдештирилген уй эти менен салат",
 			"descriptionKy": "Карамелдештирилген уй эти менен салат: Айсберг, кызылча, бадыраң, сабиз лимон соусу жана карамелдештирилген уй эти менен заправланган"
+		},
+		{
+			"category": "salads",
+			"name": "Салат Фантазия",
+			"description": "Руккола, шпинат, моцарелла, кукуруза конс. Черри, бальзамический уксус, оливковое масло, вяленые помидоры, киноа, огурцы",
+			"price": "460",
+			"gram": "440гр",
+			"gramKy": "440гр",
+			"gramEn": "440g",
+			"ingr": [],
+			"imagePath": "assets/images/etiler.jpg",
+			"nameEn": "Fantasy Salad",
+			"descriptionEn": "Arugula, spinach, mozzarella, canned corn, cherry tomatoes, balsamic vinegar, olive oil, sun-dried tomatoes, quinoa, cucumbers",
+			"nameKy": "Фантазия салаты",
+			"descriptionKy": "Руккола, шпинат, моцарелла, консервацияланган жүгөрү, черри помидор, бальзамик уксусу, зайтун майы, күнгө кургатылган помидор, киноа, бадыраң"
+		},
+		{
+			"category": "salads",
+			"name": "Цезарь с креветками",
+			"description": "",
+			"price": "630",
+			"gram": "350гр",
+			"gramKy": "350гр",
+			"gramEn": "350g",
+			"ingr": [],
+			"imagePath": "assets/images/etiler.jpg",
+			"nameEn": "Caesar Salad with Shrimp",
+			"descriptionEn": "",
+			"nameKy": "Креветка менен Цезарь",
+			"descriptionKy": ""
+		},
+		{
+			"category": "salads",
+			"name": "Green salad",
+			"description": "",
+			"price": "315",
+			"gram": "180г",
+			"gramKy": "180г",
+			"gramEn": "180g",
+			"ingr": [],
+			"imagePath": "assets/images/etiler.jpg",
+			"nameEn": "Green salad",
+			"descriptionEn": "",
+			"nameKy": "Green salad",
+			"descriptionKy": ""
 		},
 		{
 			"category" : "salads",
