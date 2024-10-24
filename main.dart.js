@@ -41761,7 +41761,7 @@ J(a){var s,r=null
 B.GV.hE("startKioskMode",r,!1,t.z)
 A.JR(B.LW)
 s=A.b([new A.ug(new A.a1O(),r,r,t.ZE)],t.Ds)
-return A.axn(new A.wf(B.Jh,"MASAKA MENU",$.atm(),!1,r),s)}}
+return A.axn(new A.wf(B.Jh,"ETILER MENU",$.atm(),!1,r),s)}}
 A.a1O.prototype={
 $1(a){var s,r=A.lx(null,!1,t.Ap),q=A.b([],t.aU),p=A.b([],t._X),o=A.b([],t.Nd)
 $.ary()
