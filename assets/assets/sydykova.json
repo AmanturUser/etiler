@@ -1,0 +1,4071 @@
+[{
+
+  "name": "Бизнес Бенто Бокс 1",
+  "nameEn": "Business Bento Box 1",
+  "nameKy": "Бизнес Бенто Бокс 1",
+  "description": "состав: рамен классический, кимчи, хендрол с курицей",
+  "descriptionEn": "ingredients: classic ramen, kimchi, hendrol with chicken",
+  "descriptionKy": "курамы: классикалык рамен, кимчи, тоок эти менен хендрол",
+  "imagePath": "assets/menu/bLunch/bLunch1.jpg",
+  "price": 299,
+  "category": "buisnesslunch",
+  "gram": "",
+  "ingr": [
+
+
+
+
+
+
+
+
+
+  ]
+},
+  {
+
+    "name": "Бизнес Бенто Бокс 2",
+    "nameEn": "Business Bento Box 2",
+    "nameKy": "Бизнес Бенто Бокс 2",
+    "description": "состав: том ям с курицей, пибимпаб, токпоки",
+    "descriptionEn": "ingredients: tom yum with chicken, bibimbap, tokpoki",
+    "descriptionKy": "курамы: тоок менен том ям, пибимпаб, токпоки",
+    "imagePath": "assets/menu/bLunch/bLunch2.jpg",
+    "price": 499,
+    "category": "buisnesslunch",
+    "gram": "",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Бизнес Бенто Бокс 3",
+    "nameEn": "Business Bento Box 3",
+    "nameKy": "Бизнес Бенто Бокс 3",
+    "description": "состав: имо суп, японский удон, хендрол с овощами",
+    "descriptionEn": "ingredients: imo soup, japanese udon, hendrol with vegetables",
+    "descriptionKy": "курамы: имо шорпосу, жапон удону, жашылчалар менен хендрол",
+    "imagePath": "assets/menu/bLunch/bLunch3.jpg",
+    "price": 349,
+    "category": "buisnesslunch",
+    "gram": "",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Бизнес Бенто Бокс 4",
+    "nameEn": "Business Bento Box 4",
+    "nameKy": "Бизнес Бенто Бокс 4",
+    "description": "состав: том ям с курицей, говядина с рисом,салат чука",
+    "descriptionEn": "ingredients: tom yum with chicken, beef with rice, chuka salad",
+    "descriptionKy": "курамы: тоок эти менен том ям, күрүч менен уй эти, чука салаты",
+    "imagePath": "assets/menu/bLunch/bLunch4.jpg",
+    "price": 599,
+    "category": "buisnesslunch",
+    "gram": "",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Бизнес Бенто Бокс 5",
+    "nameEn": "Business Bento Box 5",
+    "nameKy": "Бизнес Бенто Бокс 5",
+    "description": "состав: суп Фо-га, курица в кисло-сладком, свежий салат",
+    "descriptionEn": "ingredients: Fo-ga soup, sweet and sour chicken, fresh salad",
+    "descriptionKy": "курамы: Фо-га шорпо, таттуу жана кычкыл тоок, жаны салат",
+    "imagePath": "assets/menu/bLunch/bLunch5.jpg",
+    "price": 499,
+    "category": "buisnesslunch",
+    "gram": "",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Бизнес Бенто Бокс 6",
+    "nameEn": "Business Bento Box 6",
+    "nameKy": "Бизнес Бенто Бокс 6",
+    "description": "состав: кесадилья с курицей, салат греческий",
+    "descriptionEn": "ingredients: chicken quesadilla,greek salad",
+    "descriptionKy": "курамы: тоок кесадилла, грек салаты",
+    "imagePath": "assets/menu/bLunch/bLunch6.jpg",
+    "price": 399,
+    "category": "buisnesslunch",
+    "gram": "",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Поке угорь",
+    "nameEn": "Poke eel",
+    "nameKy": "Поке жылан балыгы",
+    "description": "состав: угорь, чука, огурцы, морковь, соус унаги, рис и кунжут",
+    "descriptionEn": "ingredients: eel, chuka, cucumbers, carrots, unagi sauce, rice and sesame",
+    "descriptionKy": "курамы: жылан балыгы, чука, бадыраңдар, сабиз, унаги соусу, күрүч жана күнжүт",
+    "imagePath": "assets/menu/Поке/Поке угорь.jpg",
+    "price": 565,
+    "category": "poke",
+    "gram": 300,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Поке лосось",
+    "nameEn": "Poke salmon",
+    "nameKy": "Поке лосось",
+    "description": "состав: лосось, авокадо, чука, нори, рис и кунжут",
+    "descriptionEn": "ingredients: salmon, avocado, chuka, nori, rice and sesame",
+    "descriptionKy": "курамы: лосось, авокадо, чука, нори, күрүч жана күнжүт",
+    "imagePath": "assets/menu/Поке/Поке лосось.jpg",
+    "price": 485,
+    "category": "poke",
+    "gram": 300,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Поке цыпленок",
+    "nameEn": "Poke chicken",
+    "nameKy": "Поке тоок",
+    "description": "состав: куриное филе, бобы эдамаме, огурцы, рис и кунжут",
+    "descriptionEn": "ingredients: chicken fillet, edamame beans, cucumbers, rice and sesame",
+    "descriptionKy": "курамы: тоок филеси, эдамаме буурчагы, бадыраңдар, күрүч жана күнжүт",
+    "imagePath": "assets/menu/Поке/Поке цыпленок.jpg",
+    "price": 415,
+    "category": "poke",
+    "gram": 320,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Пицца пепперони",
+    "nameEn": "Pizza pepperoni",
+    "nameKy": "Пицца пепперони",
+    "description": "состав: томатный соус, сыр микс и колбаса пепперони",
+    "descriptionEn": "ingredients: tomato sauce, cheese mix and pepperoni sausage",
+    "descriptionKy": "курамы: томат соусу, сыр аралашмасы жана пепперони колбасасы",
+    "imagePath": "assets/menu/Пицца/Пицца пепперони.jpg",
+    "price": 475,
+    "category": "pizza",
+    "gram": "",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Пицца Альфредо",
+    "nameEn": "Alfredo's pizza",
+    "nameKy": "Альфредо пиццасы",
+    "description": "состав: сливочный соус, сыр микс, куриное филе и шампиньоны",
+    "descriptionEn": "ingredients: cream sauce, cheese mix, chicken fillet and mushrooms",
+    "descriptionKy": "курамы: каймак соусу, сыр аралашмасы, тоок филеси жана шампиньондар",
+    "imagePath": "assets/menu/Пицца/Пицца альфредо.jpg",
+    "price": 465,
+    "category": "pizza",
+    "gram": "",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Пицца чили",
+    "nameEn": "Chili pizza",
+    "nameKy": "Чили пиццасы",
+    "description": "состав: томатный соус, фарш говяжий, сыр микс и халапеньо",
+    "descriptionEn": "ingredients: tomato sauce, minced beef, cheese mix and jalapeno",
+    "descriptionKy": "курамы: томат соусу, уй этинин фаршы, сыр аралашмасы жана халапеньо",
+    "imagePath": "assets/menu/Пицца/Пицца чили.jpg",
+    "price": 485,
+    "category": "pizza",
+    "gram": "",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Пицца с ветчиной",
+    "nameEn": "Pizza with ham",
+    "nameKy": "Ветчина пиццасы",
+    "description": "состав: сыр микс, томатный соус, куриная ветчина и шампиньоны",
+    "descriptionEn": "ingredients: cheese mix, tomato sauce, chicken ham and mushrooms",
+    "descriptionKy": "курамы: сыр аралашмасы, томат соусу, тоок ветчинасы жана шампиньондар",
+    "imagePath": "assets/menu/Пицца/Пицца с ветчиной.jpg",
+    "price": 545,
+    "category": "pizza",
+    "gram": "",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Пицца морская",
+    "nameEn": "Sea pizza",
+    "nameKy": "Деңиз пиццасы",
+    "description": "состав: сливочно-томатный соус, сыр микс, креветки и кальмары",
+    "descriptionEn": "ingredients: creamy tomato sauce, cheese mix, shrimp and squid",
+    "descriptionKy": "курамы: каймактуу томат соусу, сыр аралашмасы, креветка жана кальмар",
+    "imagePath": "assets/menu/Пицца/Пицца морская.jpg",
+    "price": 625,
+    "category": "pizza",
+    "gram": "",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Пицца цезарь с курицей",
+    "nameEn": "Caesar and chicken pizza",
+    "nameKy": "Цезарь тоок пиццасы",
+    "description": "состав: соус цезарь, салатные листья, черри, сыр пармезан и куриное филе",
+    "descriptionEn": "ingredients: caesar sauce, salad leaves, cherry, parmesan cheese and chicken fillet",
+    "descriptionKy": "курамы: цезарь соусу, салат жалбырактары, черри, пармезан сыры жана тоок филеси",
+    "imagePath": "assets/menu/Пицца/Пицца цезарь с курицей.jpg",
+    "price": 445,
+    "category": "pizza",
+    "gram": "",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Суп Янгава",
+    "nameEn": "Yangawa soup",
+    "nameKy": "Янгава шорпо",
+    "description": "cостав: лапша удон, угорь, лук зеленый, ростки сои, яйцо пашот",
+    "descriptionEn": "ingredients: udon noodles, eel, green onion, soy sprouts, poached egg",
+    "descriptionKy": "курамы: удон кесме, жылан балыгы, көк пияз, соя өскөн, браконьер жумуртка",
+    "imagePath": "assets/menu/Супы/Янгава.jpg",
+    "price": 395,
+    "category": "soup",
+    "gram": "0,7",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Суп куксу",
+    "nameEn": "Kuksu soup",
+    "nameKy": "Куксу шорпосу",
+    "description": "состав: азиатский холодный суп с овощами, говядиной и яичной лапшой",
+    "descriptionEn": "ingredients: asian cold soup with vegetables, beef and egg noodles",
+    "descriptionKy": "курамы: азиялык муздак шорпо жашылчалар менен, уй эти жана жумуртка лапшасы",
+    "imagePath": "assets/menu/Супы/Куксу.jpg",
+    "price": 325,
+    "category": "soup",
+    "gram": 400,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Удон танг",
+    "nameEn": "Udon tang",
+    "nameKy": "Удон танг",
+    "description": "состав: японский домашний удон с копченной курицей, отварным яйцом в зеленом чае и наваристым бульоном по азиатски",
+    "descriptionEn": "ingredients: japanese homemade udon with smoked chicken, boiled egg in green tea and rich asian broth",
+    "descriptionKy": "курамы: япон үй удону чылымдалган тоок, жашыл чайда кайнатылган жумуртка жана бай азиялык сорпо",
+    "imagePath": "assets/menu/Супы/Удон танг.jpg",
+    "price": 265,
+    "category": "soup",
+    "gram": 500,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Острый суп Масака",
+    "nameEn": "Spicy Masaka soup",
+    "nameKy": "Кычкыл Масака шорпосу",
+    "description": "состав: куриное филе, древесные грибы, стеклянная лапша, тофу, специи табаджан и соус кочуджан",
+    "descriptionEn": "ingredients: chicken fillet, wood mushrooms, glass noodles, tofu, tabajan spices and kochujan sauce",
+    "descriptionKy": "курамы: тоок филеси, жыгач козу карындар, айнек лапша, тофу, табаджан татымдары жана кочуджан соусу",
+    "imagePath": "assets/menu/Супы/Острый суп масака.jpg",
+    "price": 325,
+    "category": "soup",
+    "gram": 400,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Рамен в ассортименте",
+    "nameEn": "Ramen in assortment",
+    "nameKy": "Рамен ассортиментте",
+    "description": "Рамен ассорти не острый - 599 сом\\nРамен ассорти острый - 599 сом\\n\\nРамен классик не острый - 335 сом\\nРамен классик острый - 335 сом\\n\\nРамен курица сыр не острый - 390 сом\\nРамен курица сыр острый - 390 сом\\n\\nРамен говядина сыр не острый - 499 сом\\nРамен говядина сыр острый - 499 сом\\n\\nРамен курица яйцо не острый - 399 сом\\nРамен курица яйцо острый - 399 сом",
+    "descriptionEn": "Assorted ramen not spicy - 599 som\\nAssorted spicy ramen - 599 som\\n\\nClassic ramen not spicy - 335 som\\nRamen classic spicy - 335 som\\n\\nRamen chicken cheese not spicy - 390 som\\nRamen chicken cheese spicy - 390 som\\n\\nRamen beef cheese not spicy - 499 som\\nRamen beef spicy cheese - 499 som\\n\\nRamen chicken egg not spicy - 399 som\\nRamen chicken egg spicy - 399 som",
+    "descriptionKy": "Ачуу эмес ассорти рамен - 599 сом\\nАссорти ачуу рамен - 599 сом\\n\\nАчуу эмес классикалык рамен - 335 сом\\nРамен классикалык ачуу - 335 сом\\n\\nРамен тоок сыры ачуу эмес - 390 сом\\nРамен тоок сыры ачуу - 390 сом\\n\\nРамен уй эти ачуу эмес сыр - 499 сом\\nРамен уй этинен жасалган ачуу сыр - 499 сом\\n\\nРамен тоок жумурткасы ачуу эмес - 399 сом\\nРамен тоок жумурткасынын ачуу - 399 сом",
+    "imagePath": "assets/menu/Супы/Рамен.jpg",
+    "price": "",
+    "category": "soup",
+    "gram": "",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": " Рамен с креветками",
+    "nameEn": "Ramen with shrimp",
+    "nameKy": "Рамен креветка менен",
+    "description": "Состав: креветки, рамен лапша, перец калифорния, лук красный и соус свит чили",
+    "descriptionEn": "Ingredients: shrimp, ramen noodles, California pepper, red onion and sweet chili sauce",
+    "descriptionKy": "Курамы: чаян, рамен кесмеси, Калифорния калемпири, кызыл пияз жана таттуу чили соусу",
+    "imagePath": "",
+    "price": 545,
+    "category": "soup",
+    "gram": 330,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Суп Мисо",
+    "nameEn": "Miso soup",
+    "nameKy": "Мисо шорпосу",
+    "description": "состав: тофу, шампиньоны и вакамэ",
+    "descriptionEn": "ingredients: tofu, mushrooms and wakame",
+    "descriptionKy": "курамы: тофу, шампиньон жана вакамэ",
+    "imagePath": "assets/menu/Супы/Мисо.jpg",
+    "price": 265,
+    "category": "soup",
+    "gram": 400,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Суп том ям",
+    "nameEn": "Tom yam soup",
+    "nameKy": "Том ям шорпосу",
+    "description": "состав: традиционный тайский суп, кокосовое молоко, тигровые креветки, кальмары, шампиньоны, томат черри и чили",
+    "descriptionEn": "ingredients: traditional thai soup, coconut milk, tiger prawns, squid, mushrooms, cherry tomato and chili",
+    "descriptionKy": "курамы: салттуу тай шорпосу, кокос сүтү, жолборс креветкалары, кальмар, шампиньон, черри томаты жана чили",
+    "imagePath": "assets/menu/Супы/Том ям.jpg",
+    "price": 495,
+    "category": "soup",
+    "gram": 400,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Суп том ям с курицей",
+    "nameEn": "Tom yam soup with chicken",
+    "nameKy": "Тоок кошулган Том ям шорпосу",
+    "description": "состав: традиционный тайский кисло-острый суп с курицей, шампиньонами и томатами черри",
+    "descriptionEn": "ingredients: traditional thai sour-spicy soup with chicken, mushrooms and cherry tomatoes",
+    "descriptionKy": "курамы: салттуу тай кычкыл-ачуу шорпосу тоок, шампиньон жана черри томат менен",
+    "imagePath": "assets/menu/Супы/Том ям с курицей.jpg",
+    "price": 405,
+    "category": "soup",
+    "gram": 400,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Сашими с лососем",
+    "nameEn": "Sashimi with salmon",
+    "nameKy": "Сашими лосось менен",
+    "description": "состав Сашими с лососем",
+    "descriptionEn": "composition Sashimi with salmon",
+    "descriptionKy": "лосось менен Сашими курамы",
+    "imagePath": "",
+    "price": 310,
+    "category": "rolls",
+    "gram": 150,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": " Сашими с тунцом",
+    "nameEn": "Sashimi with tuna",
+    "nameKy": "тунец менен Сашими",
+    "description": "состав: Сашими с тунцом",
+    "descriptionEn": "composition: Sashimi with tuna",
+    "descriptionKy": "курамы: тунец менен Сашими",
+    "imagePath": "",
+    "price": 190,
+    "category": "rolls",
+    "gram": 150,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": " Сашими с угрем",
+    "nameEn": "Sashimi with eel",
+    "nameKy": "Жылан балыгы менен Сашими",
+    "description": "состав: Сашими с угрем",
+    "descriptionEn": "composition: Sashimi with eel",
+    "descriptionKy": "курамы: жылан балыгы менен Сашими",
+    "imagePath": "",
+    "price": 345,
+    "category": "rolls",
+    "gram": 150,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": " Сашими с креветками",
+    "nameEn": "Shrimp sashimi",
+    "nameKy": "Сашими чабактары",
+    "description": "состав: Сашими с креветками",
+    "descriptionEn": "composition: Sashimi with shrimp",
+    "descriptionKy": "курамы: чабак менен Сашими",
+    "imagePath": "",
+    "price": 220,
+    "category": "rolls",
+    "gram": 150,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Сашими luxury",
+    "nameEn": "Sashimi luxury",
+    "nameKy": " Сашими luxury",
+    "description": "Состав: лосось, угорь, креветки и тунец",
+    "descriptionEn": "Ingredients: salmon, eel, shrimp and tuna",
+    "descriptionKy": "Курамы: лосось, жылан балыгы, чаян жана тунец",
+    "imagePath": "",
+    "price": 1025,
+    "category": "rolls",
+    "gram": 540,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Мидии с соусом blue cheez",
+    "nameEn": " Мидии с соусом blue cheez",
+    "nameKy": " Мидии с соусом blue cheez",
+    "description": "Состав: мидии, сыр дорблю, масло сливочное, багет и лук зеленый",
+    "descriptionEn": "Название: Мидии с соусом blue cheez",
+    "descriptionKy": "Название: Мидии с соусом blue cheez",
+    "imagePath": "",
+    "price": 695,
+    "category": "rolls",
+    "gram": 375,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Мидии с соусом том ям",
+    "nameEn": " Мидии с соусом том ям",
+    "nameKy": " Мидии с соусом том ям",
+    "description": "Состав: мидии, соус том ям, багет и масло сливочное",
+    "descriptionEn": "Название: Мидии с соусом том ям",
+    "descriptionKy": "Название: Мидии с соусом том ям",
+    "imagePath": "",
+    "price": 445,
+    "category": "rolls",
+    "gram": 350,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "салат Греческий ",
+    "nameEn": "Greek salad",
+    "nameKy": "Грек салаты",
+    "description": "Состав: листья салата, айсберг, огурцы, помидоры черри, сыр фетакса и яйцо перепелиное",
+    "descriptionEn": "Ingredients: lettuce, iceberg, cucumbers, cherry tomatoes, fetax cheese and quail egg",
+    "descriptionKy": "Курамы: салат жалбырагы, айсберг, бадыраң, алча помидор, фетакс сыры жана бөдөнө жумурткасы",
+    "imagePath": "",
+    "price": 365,
+    "category": "salads",
+    "gram": 260,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": " салат личи",
+    "nameEn": "lychee salad",
+    "nameKy": "личи салаты",
+    "description": "Состав: личи, жаренный лук и соус спайси",
+    "descriptionEn": "Ingredients: lychee, fried onions and spicy sauce",
+    "descriptionKy": "Курамы: личи, куурулган пияз жана ачуу соус",
+    "imagePath": "",
+    "price": 200,
+    "category": "salads",
+    "gram": 170,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "салат Цезарь со шницелем ",
+    "nameEn": "Caesar salad with schnitzel",
+    "nameKy": "Шницель менен Цезарь салаты",
+    "description": "Состав: айсберг, листья салата, яйцо перепелиное, соус цезарь, сыр пармезан и куриное филе в панировке",
+    "descriptionEn": "Ingredients: iceberg, lettuce, quail egg, Caesar sauce, Parmesan cheese and breaded chicken fillet",
+    "descriptionKy": "Курамы: айсберг, салат жалбырагы, бөдөнө жумурткасы, цезарь соусу, пармезан сыры жана нан бышырылган тоок филеси",
+    "imagePath": "",
+    "price": 350,
+    "category": "salads",
+    "gram": 270,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Салат цезарь с креветками",
+    "nameEn": "Caesar salad with shrimps",
+    "nameKy": "Креветка кошулган Цезарь салаты",
+    "description": "состав: легендарный салат с креветками под соусом цезарь, выбор ценителей изыска",
+    "descriptionEn": "ingredients: legendary shrimp salad with caesar sauce, the choice of connoisseurs of gourmets",
+    "descriptionKy": "курамы: легендарлуу креветка салаты цезарь соусу менен, гурмандарды тандоо",
+    "imagePath": "assets/menu/Салаты/Салат цезарь с креветками.jpg",
+    "price": 435,
+    "category": "salads",
+    "gram": 280,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Салат цезарь с курицей",
+    "nameEn": "Caesar salad with chicken",
+    "nameKy": "Тоок кошулган Цезарь салаты",
+    "description": "состав: микс салата, курица, сухари, томат черри и соус цезарь",
+    "descriptionEn": "ingredients: salad mix, chicken, breadcrumbs, cherry tomato and caesar sauce",
+    "descriptionKy": "курамы: салат аралашмасы, тоок, нан күкүмдөрү, черри томаты жана цезарь соусу",
+    "imagePath": "assets/menu/Салаты/Салат цезарь с курицей.jpg",
+    "price": 400,
+    "category": "salads",
+    "gram": 280,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": " Салат Ботичели",
+    "nameEn": "Boticheli salad",
+    "nameKy": "Ботичели салаты",
+    "description": "Состав: шпинат, куриный рулет, вешенки, лук жаренный, яйцо куриное и майонез",
+    "descriptionEn": "Ingredients: spinach, chicken roll, oyster mushrooms, fried onions, chicken egg and mayonnaise",
+    "descriptionKy": "Курамы: шпинат, тоок рулети, устрица козу карындары, куурулган пияз, тоок жумурткасы жана майонез",
+    "imagePath": "",
+    "price": 350,
+    "category": "salads",
+    "gram": 240,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Салат с лососем",
+    "nameEn": "Salad with salmon",
+    "nameKy": "Лосось кошулган салат",
+    "description": "состав: микс салата, слабосоленый лосось, томат черри и соус лаванда",
+    "descriptionEn": "ingredients: salad mix, lightly salted salmon, cherry tomato and lavender sauce",
+    "descriptionKy": "курамы: салат аралашмасы, аз туздалган лосось, черри томаты жана лаванда соусу",
+    "imagePath": "assets/menu/Салаты/Салат с лососем.jpg",
+    "price": 455,
+    "category": "salads",
+    "gram": 220,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Салат коу- слоу",
+    "nameEn": "Coleslaw salad",
+    "nameKy": "Салат коу- слоу",
+    "description": "Состав: куриное бедро, паста карбонара, спайси соус и терияки соус",
+    "descriptionEn": "Ingredients: chicken thigh, carbonara pasta, spicy sauce and teriyaki sauce",
+    "descriptionKy": "Курамы: тооктун саны, карбонара паста, ачуу соус жана терияки соусу",
+    "imagePath": "",
+    "price": 250,
+    "category": "salads",
+    "gram": 300,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": " Kyury",
+    "nameEn": " Kyury",
+    "nameKy": " Kyury",
+    "description": "Состав: огурцы, соус юн, чука, масло кунжутное и кунжутные семечки",
+    "descriptionEn": "Ingredients: cucumbers, yung sauce, chuka, sesame oil and sesame seeds",
+    "descriptionKy": "Курамы: бадыраң, юнг соусу, чука, кунжут майы жана кунжут",
+    "imagePath": "",
+    "price": 200,
+    "category": "salads",
+    "gram": 215,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Салат греческий",
+    "nameEn": "Greek salad",
+    "nameKy": "Грек салаты",
+    "description": "состав: помидоры, огурцы, маслины, сыр фета, красный лук, микс салата и оливковое масло",
+    "descriptionEn": "ingredients: tomatoes, cucumbers, olives, feta cheese, red onion, salad mix and olive oil",
+    "descriptionKy": "курамы: помидорлор, бадыраңдар, зайтундар, фета сыры, кызыл пияз, салат аралашмасы жана зайтун майы",
+    "imagePath": "assets/menu/Салаты/Салат греческий.jpg",
+    "price": 415,
+    "category": "salads",
+    "gram": 300,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Салат чука с семгой",
+    "nameEn": "Chuka salad with salmon",
+    "nameKy": "Семга кошулган чука салаты",
+    "description": "состав: чука, семга, ореховый соус, арахис и кунжут",
+    "descriptionEn": "ingredients: chuka, salmon, nut sauce, peanuts and sesame",
+    "descriptionKy": "курамы: чука, семга, жаңгак соусу, арахис жана кунжут",
+    "imagePath": "assets/menu/Салаты/Салат чука с семгой.jpg",
+    "price": 445,
+    "category": "salads",
+    "gram": 220,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Хрустящие баклажаны",
+    "nameEn": "Crispy eggplant",
+    "nameKy": "Кытырак баклажан",
+    "description": "состав: баклажаны в кисло-сладком соусе, шпинат, томат и мусс из пармезана",
+    "descriptionEn": "ingredients: eggplant in sweet and sour sauce, spinach, tomato and parmesan mousse",
+    "descriptionKy": "курамы: кычкыл-таттуу соус менен баклажан, шпинат, помидор жана пармезан муссу",
+    "imagePath": "assets/menu/Салаты/Салат хрустящие баклажаны.jpg",
+    "price": 405,
+    "category": "salads",
+    "gram": 320,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Салат с авокадо",
+    "nameEn": "Salad with avocado",
+    "nameKy": "Авокадо кошулган салат",
+    "description": "состав: шпинат, авокадо, огурцы, грецкий орех и соус ореховый",
+    "descriptionEn": "ingredients: spinach, avocado, cucumbers, walnut and walnut sauce",
+    "descriptionKy": "курамы: шпинат, авокадо, бадыраңдар, грек жаңгагы жана жаңгак соусу",
+    "imagePath": "assets/menu/Салаты/Салат с авакадо.jpg",
+    "price": 385,
+    "category": "salads",
+    "gram": 200,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": " Carrot",
+    "nameEn": " Carrot",
+    "nameKy": " Carrot",
+    "description": "Состав: яблочный уксус, морковь, мед и кунжутные семечки",
+    "descriptionEn": "Ingredients: apple cider vinegar, carrots, honey and sesame seeds",
+    "descriptionKy": "Курамы: алма уксусу, сабиз, бал жана кунжут",
+    "imagePath": "",
+    "price": 150,
+    "category": "salads",
+    "gram": 160,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Грибы эноки в кисло-остром соусе",
+    "nameEn": "Enoki mushrooms in sour-spicy sauce",
+    "nameKy": "Кычкыл-таттуу соуста эноки козу карындары",
+    "description": "состав: золотые нити приготовленные в кисло-остром соусе",
+    "descriptionEn": "ingredients: golden threads cooked in sour-spicy sauce",
+    "descriptionKy": "курамы: кычкыл-таттуу соус менен даярдалган алтын жиптер",
+    "imagePath": "assets/menu/Закуски/Грибы эноки.jpg",
+    "price": 385,
+    "category": "snacks",
+    "gram": 340,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Караи тофу",
+    "nameEn": "Karai tofu",
+    "nameKy": "Караи тофу",
+    "description": "состав: хрустящий тофу в сладко-остром соусе",
+    "descriptionEn": "ingredients: crispy tofu in sweet and spicy sauce",
+    "descriptionKy": "курамы: таттуу жана ачуу соуста кытырак тофу",
+    "imagePath": "assets/menu/Закуски/Караи тофу.jpg",
+    "price": 275,
+    "category": "snacks",
+    "gram": 338,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Тофу в панировке",
+    "nameEn": "Breaded tofu",
+    "nameKy": "Нан күкүмдөрүндө тофу",
+    "description": "состав: нежный тофу в хрустящей панировке с азиатским соусом",
+    "descriptionEn": "ingredients: tender tofu in crispy breading with asian sauce",
+    "descriptionKy": "курамы: кытырак нан күкүмдөрүндө жумшак тофу жана азия соусу",
+    "imagePath": "assets/menu/Закуски/Тофу в панировке.jpg",
+    "price": 305,
+    "category": "snacks",
+    "gram": 370,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": " Хот-дог Masaka",
+    "nameEn": "Hot dog Masaka",
+    "nameKy": " Хот-дог Masaka",
+    "description": " Хот-дог Masaka",
+    "descriptionEn": "Hot dog Masaka",
+    "descriptionKy": " Хот-дог Masaka",
+    "imagePath": "",
+    "price": "",
+    "category": "snacks",
+    "gram": 350,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Корн дог с сыром/без сыра",
+    "nameEn": "Corn dog with cheese/without cheese",
+    "nameKy": "Сыр кошулган/сырсыз корн дог",
+    "description": "состав: сосиска обжаренная в кляре",
+    "descriptionEn": "ingredients: sausage fried in batter",
+    "descriptionKy": "курамы: камырда куурулган сосиска",
+    "imagePath": "assets/menu/Закуски/Корн дог.jpg",
+    "price": "150/120",
+    "category": "snacks",
+    "gram": "150/160",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Токпокки",
+    "nameEn": "Tokpokki",
+    "nameKy": "Токпокки",
+    "description": "состав: рисовые клецки в сладко-остром соусе",
+    "descriptionEn": "ingredients: rice dumplings in sweet and spicy sauce",
+    "descriptionKy": "курамы: таттуу жана ачуу соуста күрүч көжөлөрү",
+    "imagePath": "assets/menu/Закуски/Токпоки.jpg",
+    "price": 370,
+    "category": "snacks",
+    "gram": 290,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Кесадилья с курицей",
+    "nameEn": "Quesadilla with chicken",
+    "nameKy": "Тоок кошулган кесадилья",
+    "description": "состав: куриное филе, грибы вешенки, лук репчатый и сыр чеддер завернутый в тортилью в сливочно-остром соусе",
+    "descriptionEn": "ingredients: chicken fillet, oyster mushrooms, onions and cheddar cheese wrapped in tortilla in creamy spicy sauce",
+    "descriptionKy": "курамы: тооктун филеси, устрица козу карындары, пияз жана чеддер сыры тортильяга оролгон каймактуу ачуу соуста",
+    "imagePath": "assets/menu/Закуски/Кесадилья с курицей.jpg",
+    "price": 425,
+    "category": "snacks",
+    "gram": 210,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Кесадилья с креветками",
+    "nameEn": "Quesadilla with shrimps",
+    "nameKy": "Креветка кошулган кесадилья",
+    "description": "состав: хрустящие креветки, айсберг и сыр пармезан завернутый в тортилью с соусом цезарь",
+    "descriptionEn": "ingredients: crispy shrimp, iceberg and parmesan cheese wrapped in tortilla with caesar sauce",
+    "descriptionKy": "курамы: кытырак креветкалар, айсберг жана пармезан сыры цезарь соусу менен тортильяга оролгон",
+    "imagePath": "assets/menu/Закуски/Кесадилья с креветками.jpg",
+    "price": 495,
+    "category": "snacks",
+    "gram": 200,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Кимчи",
+    "nameEn": "Kimchi",
+    "nameKy": "Кимчи",
+    "description": "состав: острая корейская закуска из маринованных овощей",
+    "descriptionEn": "ingredients: spicy korean appetizer from pickled vegetables",
+    "descriptionKy": "курамы: маринаддалган жашылчалардан жасалган ачуу корей закускасы",
+    "imagePath": "assets/menu/Закуски/Кимчи.jpg",
+    "price": 100,
+    "category": "snacks",
+    "gram": 100,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Острая фасоль в кляре",
+    "nameEn": "Spicy beans in batter",
+    "nameKy": "Камырдагы ачуу буурчак",
+    "description": "состав: стручковая фасоль, сушенный перец и арахис",
+    "descriptionEn": "ingredients: green beans, dried peppers and peanuts",
+    "descriptionKy": "курамы: жашыл буурчак, кургатылган калемпир жана арахис",
+    "imagePath": "assets/menu/Закуски/Острая фасоль в кляре.jpg",
+    "price": 325,
+    "category": "snacks",
+    "gram": "",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Моящи",
+    "nameEn": "Moying",
+    "nameKy": "Моящи",
+    "description": "состав: ростки сои и шпинат заправленные кунжутным маслом и травяным бульоном",
+    "descriptionEn": "ingredients: soybean sprouts and spinach seasoned with sesame oil and herbal broth",
+    "descriptionKy": "курамы: соянын өсүмдүктөрү жана шпинат кунжут майы жана чөптөрдүн сорпосу менен даамдалган",
+    "imagePath": "assets/menu/Закуски/Моящи.jpg",
+    "price": 220,
+    "category": "snacks",
+    "gram": 100,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Канпуги",
+    "nameEn": "Kanpugi",
+    "nameKy": "Канпуги",
+    "description": "состав: куриное филе, токпоки, кисло-сладкий соус, кунжут",
+    "descriptionEn": "ingredients: chicken fillet, tokboki, sweet and sour sauce, sesame",
+    "descriptionKy": "курамы: тоок эти, токбоки, таттуу жана кычкыл соус, кунжут",
+    "imagePath": "assets/menu/Блюда из курицы/kanpugi.jpg",
+    "price": 455,
+    "category": "chicken",
+    "gram": 330,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Спайс чикен",
+    "nameEn": "Spice chicken",
+    "nameKy": "Ачуулуу тоок",
+    "description": "состав: куриное филе, рис, древесные грибы и томат черри с остринкой",
+    "descriptionEn": "ingredients: chicken fillet, rice, wood mushrooms and cherry tomato with spicy",
+    "descriptionKy": "курамы: тоок филеси, күрүч, жыгач козу карындары жана ачуу чери помидорлору",
+    "imagePath": "assets/menu/Блюда из курицы/Спайс чикен.jpg",
+    "price": 425,
+    "category": "chicken",
+    "gram": 420,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Терияки",
+    "nameEn": "Teriyaki",
+    "nameKy": "Терияки",
+    "description": "состав: кусочки куриного филе в соусе терияки, с битыми огурцами, подается с рисом",
+    "descriptionEn": "ingredients: pieces of chicken fillet in teriyaki sauce, with broken cucumbers, served with rice",
+    "descriptionKy": "курамы: терияки соусундагы тоок филесинин бөлүктөрү, кабылган бадыраңдар жана күрүч менен берилет",
+    "imagePath": "assets/menu/Блюда из курицы/Терияки.jpg",
+    "price": 375,
+    "category": "chicken",
+    "gram": 320,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Курица тонкацу",
+    "nameEn": "Tonkatsu chicken",
+    "nameKy": "Тонкацу тоогу",
+    "description": "состав: куриное филе в кляре, рис, помидоры и огурцы в соусе тонкацу",
+    "descriptionEn": "ingredients: chicken fillet in batter, rice, tomatoes and cucumbers in tonkatsu sauce",
+    "descriptionKy": "курамы: камырдагы тоок филеси, күрүч, помидор жана бадыраңдар тонкацу соусунда",
+    "imagePath": "assets/menu/Блюда из курицы/Курица тонкацу.jpg",
+    "price": 375,
+    "category": "chicken",
+    "gram": 414,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Ощи сет",
+    "nameEn": "Oshchi set",
+    "nameKy": "Ощи топтому",
+    "description": "состав: набор из хрустящей курицы, тофу в кисло-остром соусе, риса и корейского кимчи",
+    "descriptionEn": "ingredients: a set of crispy chicken, tofu in sour spicy sauce, rice and korean kimchi",
+    "descriptionKy": "курамы: кытырак тоок, кычкыл-ачуу соустагы тофу, күрүч жана корей кимчиси",
+    "imagePath": "assets/menu/Блюда из курицы/Ощи сет.jpg",
+    "price": 365,
+    "category": "chicken",
+    "gram": 420,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Курица в кисло-сладком соусе",
+    "nameEn": "Chicken in sweet and sour sauce",
+    "nameKy": "Кычкыл-таттуу соусундагы тоок",
+    "description": "состав: куриное филе обжаренное в масле в кисло-сладком соусе",
+    "descriptionEn": "ingredients: chicken fillet fried in oil in sweet and sour sauce",
+    "descriptionKy": "курамы: майда куурулган тоок филеси кычкыл-таттуу соуста",
+    "imagePath": "assets/menu/Блюда из курицы/Курица в кисло сладком соусе.jpg",
+    "price": 425,
+    "category": "chicken",
+    "gram": 420,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Крылышки с фри",
+    "nameEn": "Wings with fries",
+    "nameKy": "Фри менен канаттар",
+    "description": "состав: крылышки и картофель фри",
+    "descriptionEn": "ingredients: wings and french fries",
+    "descriptionKy": "курамы: канаттар жана картошка фри",
+    "imagePath": "assets/menu/Блюда из курицы/Крылышки с фри.jpg",
+    "price": 375,
+    "category": "chicken",
+    "gram": 400,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Чикен оякодон",
+    "nameEn": "Chicken oyakodon",
+    "nameKy": "Тоок оякодон",
+    "description": "состав: курица в кляре с яйцом и жареным луком",
+    "descriptionEn": "ingredients: chicken in batter with egg and fried onions",
+    "descriptionKy": "курамы: камырдагы тоок жумуртка жана куурулган пияз менен",
+    "imagePath": "assets/menu/Блюда из курицы/Чикен оякодон.jpg",
+    "price": 375,
+    "category": "chicken",
+    "gram": 380,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Медальоны",
+    "nameEn": "Medallions",
+    "nameKy": "Медальондор",
+    "description": "состав: бон филе, масло, оливковое, соль морская, фри, перечный соус",
+    "descriptionEn": "ingredients: bon fillet, oil, olive, sea salt, fries, pepper sauce",
+    "descriptionKy": "курамы: бон филе, май, зайтун, деңиз тузу, фри, калемпир соусу",
+    "imagePath": "assets/menu/Блюда из говядины/medalions.jpg",
+    "price": 855,
+    "category": "beef",
+    "gram": 370,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Рибай стейк",
+    "nameEn": "Ribeye steak",
+    "nameKy": "Рибай стейк",
+    "description": "состав: рибай, масло оливковое, соль морская, розмарин, фри, перечный соус",
+    "descriptionEn": "ingredients: ribeye, olive oil, sea salt, rosemary, fries, pepper sauce",
+    "descriptionKy": "курамы: рибай, зайтун майы, деңиз тузу, розмарин, фри, калемпир соусу",
+    "imagePath": "assets/menu/Блюда из говядины/Рибаи.jpg",
+    "price": 1280,
+    "category": "beef",
+    "gram": 470,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": " Карбонара по азиатски",
+    "nameEn": "Carbonara in Asian style",
+    "nameKy": "Азия стилинде Carbonara",
+    "description": "Состав: паста карбонара, сыр пармезан, рулет куриный, яйцо куриное и лук жаренный ",
+    "descriptionEn": "Ingredients: carbonara pasta, parmesan cheese, chicken roll, chicken egg and fried onion",
+    "descriptionKy": "Курамы: карбонара макарон, пармезан сыр, тоок рулет, тоок жумуртка жана куурулган пияз",
+    "imagePath": "",
+    "price": 350,
+    "category": "beef",
+    "gram": 290,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": " Макарон kaiju",
+    "nameEn": "Pasta kaiju",
+    "nameKy": " Макарон kaiju",
+    "description": "Состав: паста улитка, фарш говяжий, жаренный лук, сыр пармезан и чука",
+    "descriptionEn": "Ingredients: snail pasta, minced beef, fried onions, parmesan cheese and chuka",
+    "descriptionKy": "Курамы: үлүл макарон, уйдун фарш, куурулган пияз, пармезан сыры жана чука",
+    "imagePath": "",
+    "price": 360,
+    "category": "beef",
+    "gram": 305,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Фетучини с брокколи",
+    "nameEn": "Fettuccine with broccoli",
+    "nameKy": "Брокколи менен феттуцин",
+    "description": "Состав: фетучини, брокколи, куриное бедро, сливки и сыр пармезан",
+    "descriptionEn": "Ingredients: fettuccine, broccoli, chicken thigh, cream and parmesan cheese",
+    "descriptionKy": "Курамы: феттуцин, брокколи, тооктун саны, каймак жана пармезан сыры",
+    "imagePath": "",
+    "price": 365,
+    "category": "chicken",
+    "gram": 320,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Тамагадон",
+    "nameEn": "Tamagadon",
+    "nameKy": "Тамагадон",
+    "description": "состав: рис, говядина, ростки сои, кимчи, шпинат и куриное яйцо",
+    "descriptionEn": "ingredients: rice, beef, soybean sprouts, kimchi, spinach and chicken egg",
+    "descriptionKy": "курамы: күрүч, уй эти, соянын өскөндөрү, кимчи, шпинат жана тооктун жумурткасы",
+    "imagePath": "assets/menu/Блюда из говядины/Тамагодон.jpg",
+    "price": 485,
+    "category": "beef",
+    "gram": 400,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Медальоны с жареной фасолью",
+    "nameEn": "Medallions with fried beans",
+    "nameKy": "Куурулган фасоль менен медальондор",
+    "description": "состав: бон филе, стручковая фасоль и томат черри",
+    "descriptionEn": "ingredients: bon fillet, green beans and cherry tomato",
+    "descriptionKy": "курамы: бон филеси, стручковая фасоль жана чери помидору",
+    "imagePath": "assets/menu/Блюда из говядины/Медальоны с жаренной фасолью.jpg",
+    "price": 850,
+    "category": "beef",
+    "gram": 350,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Говядина с рисом",
+    "nameEn": "Ice beef with rice",
+    "nameKy": "Күрүч менен уй эти",
+    "description": "состав: рис, говядина и репчатый лук",
+    "descriptionEn": "ingredients: rice, beef and onions",
+    "descriptionKy": "курамы: күрүч, уй эти жана пияз",
+    "imagePath": "assets/menu/Блюда из говядины/Говядина с рисом.jpg",
+    "price": 485,
+    "category": "beef",
+    "gram": 400,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Форель с нутовым пюре",
+    "nameEn": "Trout with chickpea puree",
+    "nameKy": "Нокот пюреси менен форель",
+    "description": "состав: филе форели,пюре из нута, соус карри,микрозелень, зеленое масло",
+    "descriptionEn": "ingredients: trout fillet, chickpea puree, curry sauce, microgreens, green oil",
+    "descriptionKy": "курамы: форель филеси, нокот пюреси, карри соусу, микрогреналар, жашыл май",
+    "imagePath": "assets/menu/Блюда из рыбы/forel.jpg",
+    "price": 476,
+    "category": "fish",
+    "gram": 300,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Пангасиус с мояши",
+    "nameEn": "Trout with chickpea puree",
+    "nameKy": "Нокот пюреси менен форель",
+    "description": "состав: филе пангасиус , мояши, кунжутный соус, кинза , чеснок, перец чили",
+    "descriptionEn": "ingredients: pangasius fillet, moyashi, sesame sauce, cilantro, garlic, chili pepper",
+    "descriptionKy": "курамы: пангасиус филетасы, мояши, кунжут соусу, кинза, сарымсак, чили калемпири",
+    "imagePath": "assets/menu/Блюда из рыбы/pangasius.jpg",
+    "price": 444,
+    "category": "fish",
+    "gram": 370,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": " Форель с соусом том ям",
+    "nameEn": "Trout with tom yum sauce",
+    "nameKy": "Том Юм соусу менен форель",
+    "description": "Состав: дикий рис, рис обычный, соус том ям, форель свежая и жаренный лук",
+    "descriptionEn": "Ingredients: wild rice, regular rice, tom yam sauce, fresh trout and fried onions",
+    "descriptionKy": "Курамы: жапайы күрүч, кадимки күрүч, том ям соусу, жаңы форель жана куурулган пияз",
+    "imagePath": "",
+    "price": 555,
+    "category": "fish",
+    "gram": 390,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Форель в имбирно-чесночном масле",
+    "nameEn": "Trout in ginger-garlic oil",
+    "nameKy": "Имбирь-сарымсак майындагы форель",
+    "description": "состав: форель филе, черри,ростки сои, микрозелень, имбирно-чесночное масло ,микрозелень",
+    "descriptionEn": "ingredients: trout fillet, cherry tomatoes, soy sprouts, microgreens, ginger-garlic oil, microgreens",
+    "descriptionKy": "курамы: форель филеси, алча помидору, соя өсүмдүгү, микро жашылчалар, имбирь-сарымсак майы, микрожашылдар",
+    "imagePath": "assets/menu/Блюда из рыбы/pangasius.jpg",
+    "price": 476,
+    "category": "fish",
+    "gram": 250,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Лосось с муссом из пармезана",
+    "nameEn": "Salmon with parmesan mousse",
+    "nameKy": "Пармезан мусс менен лосось",
+    "description": "состав: лосось, шпинат и мусс пармезан",
+    "descriptionEn": "ingredients: salmon, spinach and parmesan mousse",
+    "descriptionKy": "курамы: лосось, шпинат жана пармезан муссу",
+    "imagePath": "assets/menu/Блюда из рыбы/Лосось с муссом из пармезана.jpg",
+    "price": 910,
+    "category": "fish",
+    "gram": 240,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Дорада с цукини",
+    "nameEn": "Dorada with zucchini",
+    "nameKy": "Цукини менен дорада",
+    "description": "состав: дорада в томатном соусе с цукини и ароматными специями",
+    "descriptionEn": "ingredients: dorada in tomato sauce with zucchini and fragrant spices",
+    "descriptionKy": "курамы: томат соусундагы дорада, цукини жана ароматтуу жыпар жыттуу заттар",
+    "imagePath": "assets/menu/Блюда из рыбы/Дорада с цукини.jpg",
+    "price": 685,
+    "category": "fish",
+    "gram": 160,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": " Сибас zizania",
+    "nameEn": "Seabass zizania",
+    "nameKy": " Сибас zizania",
+    "description": "Состав: сибас, гарнир рис, масло сливочное и соус перечный",
+    "descriptionEn": "Ingredients: sea bass, side dish rice, butter and pepper sauce",
+    "descriptionKy": "Курамы: деңиз басс, гарнир күрүч, сары май жана калемпир соусу",
+    "imagePath": "",
+    "price": 845,
+    "category": "fish",
+    "gram": 250,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Сибас с овощами",
+    "nameEn": "Seabass with vegetables",
+    "nameKy": "Жашылчалар менен сибас",
+    "description": "состав: сибас обжаренный с овощами и прованскими травами",
+    "descriptionEn": "ingredients: fried seabass with vegetables and provencal herbs",
+    "descriptionKy": "курамы: жашылчалар жана прованс чөптөрү менен куурулган сибас",
+    "imagePath": "assets/menu/Блюда из рыбы/Сибас с овощами.jpg",
+    "price": 665,
+    "category": "fish",
+    "gram": 180,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": " Рамен с крылышками",
+    "nameEn": "Ramen with wings",
+    "nameKy": "Рамен канаттуу",
+    "description": "Состав: рамен, чеснок, имбирь свежий, паста кочитян, яйцо куриное и крылышки",
+    "descriptionEn": "Ingredients: ramen, garlic, fresh ginger, Cochitan paste, chicken egg and wings",
+    "descriptionKy": "курамы: рамен, сарымсак, жаңы имбирь, кочитан пастасы, тооктун жумурткасы жана канаттары",
+    "imagePath": "",
+    "price": 355,
+    "category": "noodles",
+    "gram": 255,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Вок с говядиной",
+    "nameEn": "Wok with beef",
+    "nameKy": "Уй эти менен вок",
+    "description": "состав: говядина, лук репчатый, перец болгарский,кабачки, морковь, лапша удон, соус вок",
+    "descriptionEn": "ingredients: beef, onion, bell pepper, zucchini, carrots, udon noodles, wok sauce",
+    "descriptionKy": "курамы: уй эти, пияз, болгар калемпири, цуккини, сабиз, удон кесме, вок соусу",
+    "imagePath": "assets/menu/Блюда с лапшой/wokBeef.jpg",
+    "price": 395,
+    "category": "noodles",
+    "gram": 350,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Вок с курицей",
+    "nameEn": "Wok with chicken",
+    "nameKy": "Тоок менен вок",
+    "description": "состав: лапша удон, куриное филе и овощи",
+    "descriptionEn": "ingredients: udon noodles, chicken fillet and vegetables",
+    "descriptionKy": "курамы: удон лапшасы, тоок филеси жана жашылчалар",
+    "imagePath": "assets/menu/Блюда с лапшой/Вок с курицей.jpg",
+    "price": 375,
+    "category": "noodles",
+    "gram": 300,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Домашний японский удон",
+    "nameEn": "Homemade japanese udon",
+    "nameKy": "Үй жасалган жапон удону",
+    "description": "состав: лапша удон, креветки и овощи",
+    "descriptionEn": "ingredients: udon noodles, shrimps and vegetables",
+    "descriptionKy": "курамы: удон лапшасы, креветкалар жана жашылчалар",
+    "imagePath": "assets/menu/Блюда с лапшой/Домашний японский удон.jpg",
+    "price": 385,
+    "category": "noodles",
+    "gram": 380,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Бон филе с фунчозой",
+    "nameEn": "Bon fillet with funchoza",
+    "nameKy": "Фунчоза менен Бон филеси",
+    "description": "состав: говядина, стеклянная лапша и сушенный перец в соусе",
+    "descriptionEn": "ingredients: beef, glass noodles and dried pepper in sauce",
+    "descriptionKy": "курамы: уй эти, айнек лапша жана кургатылган калемпир соус менен",
+    "imagePath": "assets/menu/Блюда с лапшой/Бонфиле с фунчозой.jpg",
+    "price": 455,
+    "category": "noodles",
+    "gram": 320,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Жареный рамен",
+    "nameEn": "Fried ramen",
+    "nameKy": "Куурулган рамен",
+    "description": "состав: рамен лапша, говядина, кимчи и куриное яйцо",
+    "descriptionEn": "ingredients: ramen noodles, beef, kimchi and chicken egg",
+    "descriptionKy": "курамы: рамен лапшасы, уй эти, кимчи жана тоок жумурткасы",
+    "imagePath": "assets/menu/Блюда с лапшой/Жареный рамен.jpg",
+    "price": 475,
+    "category": "noodles",
+    "gram": 380,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Суси из тунца",
+    "nameEn": "Tuna sushi",
+    "nameKy": "Тунец сусиси",
+    "description": "суси из тунца",
+    "descriptionEn": "tuna sushi",
+    "descriptionKy": "тунец сусиси",
+    "imagePath": "assets/menu/Суси/Суси из тунца.jpg",
+    "price": 135,
+    "category": "susi",
+    "gram": 80,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Суси из семги",
+    "nameEn": "Salmon sushi",
+    "nameKy": "Семги сусиси",
+    "description": "суси из семги",
+    "descriptionEn": "salmon sushi",
+    "descriptionKy": "семги сусиси",
+    "imagePath": "assets/menu/Суси/Суси из семги.jpg",
+    "price": 185,
+    "category": "susi",
+    "gram": 80,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Суси из креветки",
+    "nameEn": "Shrimp sushi",
+    "nameKy": "Креветка сусиси",
+    "description": "суси из креветки",
+    "descriptionEn": "shrimp sushi",
+    "descriptionKy": "креветка сусиси",
+    "imagePath": "assets/menu/Суси/Суси из креветки.jpg",
+    "price": 135,
+    "category": "susi",
+    "gram": 80,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Суси из угря",
+    "nameEn": "Eel sushi",
+    "nameKy": "Угорь сусиси",
+    "description": "суси из угря",
+    "descriptionEn": "eel sushi",
+    "descriptionKy": "угорь сусиси",
+    "imagePath": "assets/menu/Суси/Суси из угря.jpg",
+    "price": 235,
+    "category": "susi",
+    "gram": 80,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Ролл Хакайдо",
+    "nameEn": "Roll Hakaido",
+    "nameKy": "Хакайдо ролл",
+    "description": "состав: хрустящие креветки, авокадо, тобико, унаги и спайси соус",
+    "descriptionEn": "ingredients: crispy shrimps, avocado, tobiko, unagi and spicy sauce",
+    "descriptionKy": "курамы: кытырак креветка, авокадо, тобико, унаги жана ачуу соус",
+    "imagePath": "assets/menu/Роллы/Хакайдо.jpg",
+    "price": 370,
+    "category": "rolls",
+    "gram": 250,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": " Ролл Масака фурай",
+    "nameEn": "Roll Masaka furai",
+    "nameKy": " Ролл Масака фурай",
+    "description": "Состав: сыр творожный, лосось,угорь, авокадо и жаренный лук",
+    "descriptionEn": "Ingredients: curd cheese, salmon, eel, avocado and fried onions",
+    "descriptionKy": "Курамы: быштак, лосось, жылан балыгы, авокадо жана куурулган пияз",
+    "imagePath": "",
+    "price": 525,
+    "category": "rolls",
+    "gram": 410,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Калифорния классик",
+    "nameEn": "California classic",
+    "nameKy": "Калифорния классика",
+    "description": "состав: авокадо, огурец, снежный краб и тобико",
+    "descriptionEn": "ingredientss: avocado, cucumber, snow crab and tobiko",
+    "descriptionKy": "курамы: авокадо, бадыраң, кар краб жана тобико",
+    "imagePath": "assets/menu/Роллы/Калифорния классик.jpg",
+    "price": 330,
+    "category": "rolls",
+    "gram": 240,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Калифорния с семгой",
+    "nameEn": "California with salmon",
+    "nameKy": "Калифорния семга",
+    "description": "состав: нежный сыр, огурец, семга и тобико",
+    "descriptionEn": "ingredients: tender cheese, cucumber, salmon and tobiko",
+    "descriptionKy": "курамы: жумшак сыр, бадыраң, семга жана тобико",
+    "imagePath": "assets/menu/Роллы/Калифорния с семгой.jpg",
+    "price": 375,
+    "category": "rolls",
+    "gram": 240,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Филадельфия классик",
+    "nameEn": "Philadelphia classic",
+    "nameKy": "Филадельфия классика",
+    "description": "состав: огурец, нежный сыр и семга",
+    "descriptionEn": "ingredients: cucumber, tender cheese and salmon",
+    "descriptionKy": "курамы: бадыраң, жумшак сыр жана лосось",
+    "imagePath": "assets/menu/Роллы/Филадельфия классик.png",
+    "price": 550,
+    "category": "rolls",
+    "gram": 330,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Литтл Масака",
+    "nameEn": "Little Masaka",
+    "nameKy": "Литтл Масака",
+    "description": "состав: тобико, авокадо, семга, снежный краб, угорь, стужки тунца и нежный сыр",
+    "descriptionEn": "ingredients: tobiko, avocado, salmon, snow crab, eel, tuna chips and tender cheese",
+    "descriptionKy": "курамы: тобико, авокадо, лосось, кар крабы, жылан балыгы, тунец кабыгы жана жумшак сыр",
+    "imagePath": "assets/menu/Роллы/Литтл масака.jpg",
+    "price": 795,
+    "category": "rolls",
+    "gram": 300,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Фуджи",
+    "nameEn": "Fuji",
+    "nameKy": "Фуджи",
+    "description": "состав: нежный сыр, слабосоленый лосось, огурец и тобико",
+    "descriptionEn": "ingredients: tender cheese, lightly salted salmon, cucumber and tobiko",
+    "descriptionKy": "курамы: жумшак сыр, аз туздалган лосось, бадыраң жана тобико",
+    "imagePath": "assets/menu/Роллы/Фуджи.jpg",
+    "price": 345,
+    "category": "rolls",
+    "gram": 240,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Дуэт",
+    "nameEn": "Duet",
+    "nameKy": "Дуэт",
+    "description": "состав: семга, угорь, листья салата, тобико и нежный сыр",
+    "descriptionEn": "ingredients: salmon, eel, lettuce leaves, tobiko and tender cheese",
+    "descriptionKy": "курамы: лосось, жылан балыгы, салат, тобико жана жумшак сыр",
+    "imagePath": "assets/menu/Роллы/Дуэт.jpg",
+    "price": 545,
+    "category": "rolls",
+    "gram": 250,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Бостон",
+    "nameEn": "Boston",
+    "nameKy": "Бостон",
+    "description": "состав: тунец, кунжут, тобико, нежный сыр, авокадо и икра семги",
+    "descriptionEn": "ingredients: tuna, sesame, tobiko, tender cheese, avocado and salmon caviar",
+    "descriptionKy": "курамы: тунец, кунжут, тобико, жумшак сыр, авокадо жана лосось икра",
+    "imagePath": "assets/menu/Роллы/Бостон.jpg",
+    "price": 375,
+    "category": "rolls",
+    "gram": 240,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Каролина",
+    "nameEn": "Carolina",
+    "nameKy": "Каролина",
+    "description": "состав: угорь, нежный сыр, унаги соус и кунжут",
+    "descriptionEn": "ingredients: eel, tender cheese, unagi sauce and sesame",
+    "descriptionKy": "курамы: жылан балыгы, жумшак сыр, унаги соусу жана кунжут уруктары",
+    "imagePath": "assets/menu/Роллы/Каролина.jpg",
+    "price": 525,
+    "category": "rolls",
+    "gram": 250,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Унаги филка",
+    "nameEn": "Unagi filka",
+    "nameKy": "Унаги филка",
+    "description": "состав: угорь, нежный сыр, огурец и унаги соус",
+    "descriptionEn": "ingredients: eel, tender cheese, cucumber and unagi sauce",
+    "descriptionKy": "курамы: жылан балыгы, жумшак сыр, бадыраң жана унаги соусу",
+    "imagePath": "assets/menu/Роллы/Унаги филка.jpg",
+    "price": 475,
+    "category": "rolls",
+    "gram": 260,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Магуро",
+    "nameEn": "Maguro",
+    "nameKy": "Магуро",
+    "description": "состав: тунец, снежный краб, авокадо, огурец, спайси соус и кунжут",
+    "descriptionEn": "ingredients: tuna, snow crab, avocado, cucumber, spicy sauce and sesame",
+    "descriptionKy": "курамы: тунец, кар краб, авокадо, бадыраң, ачуу соус жана кунжут уруктары",
+    "imagePath": "assets/menu/Роллы/Магуро.jpg",
+    "price": 385,
+    "category": "rolls",
+    "gram": 280,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": " Ролл спайс магуро",
+    "nameEn": "Roll Spice maguro",
+    "nameKy": " Ролл спайс магуро",
+    "description": "Состав: краб, огурцы, авокадо, массаго, тунец и спайси соус",
+    "descriptionEn": "Ingredients: crab, cucumbers, avocado, massago, tuna and spicy sauce",
+    "descriptionKy": "Курамы: краб, бадыраң, авокадо, массаго, тунец жана ачуу соус",
+    "imagePath": "",
+    "price": 375,
+    "category": "rolls",
+    "gram": 330,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": " Ролл гуакамоле",
+    "nameEn": "Guacamole roll",
+    "nameKy": " Ролл гуакамоле",
+    "description": "Состав: авокадо, соус гуакамоле, краб снежный и сыр творожный",
+    "descriptionEn": "Ingredients: avocado, guacamole sauce, snow crab and curd cheese",
+    "descriptionKy": "Курамы: авокадо, гуакамол соусу, кар краб жана быштак",
+    "imagePath": "",
+    "price": 315,
+    "category": "rolls",
+    "gram": 350,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Тайгер",
+    "nameEn": "Tiger",
+    "nameKy": "Тайгер",
+    "description": "состав: тигровая креветка, нежный сыр, семга и лимон",
+    "descriptionEn": "ingredients: tiger shrimp, tender cheese, salmon and lemon",
+    "descriptionKy": "курамы: жолборс креветки, жумшак сыр, лосось жана лимон",
+    "imagePath": "assets/menu/Роллы/Тайгер.jpg",
+    "price": 550,
+    "category": "rolls",
+    "gram": 300,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Краб креветка",
+    "nameEn": "Crab shrimp",
+    "nameKy": "краб креветка",
+    "description": "состав: нежный сыр, снежный краб, тигровая креветка, кунжут и спайси соус",
+    "descriptionEn": "ingredients: tender cheese, snow crab, tiger shrimp, sesame and spicy sauce",
+    "descriptionKy": "курамы: жумшак сыр, кар краб, жолборс креветкасы, кунжут жана ачуу соус",
+    "imagePath": "assets/menu/Роллы/Краб креветка.jpg",
+    "price": 285,
+    "category": "rolls",
+    "gram": 230,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Камикадзе",
+    "nameEn": "Kamikaze pilot",
+    "nameKy": "Камикадзе",
+    "description": "состав: семга, угорь, перец болгарский, салат чука, нежный сыр, тобико и спайси соус",
+    "descriptionEn": "ingredients: salmon, eel, bell pepper, chuka salad, tender cheese, tobiko and spicy sauce",
+    "descriptionKy": "курамы: лосось, жылан балыгы, болгар калемпири, чука салаты, жумшак сыр, тобико жана ачуу соус",
+    "imagePath": "assets/menu/Роллы/Камикадзе.jpg",
+    "price": 585,
+    "category": "rolls",
+    "gram": 330,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Сяки маки",
+    "nameEn": "Syaki maki",
+    "nameKy": "Сяки маки",
+    "description": "каппа семга",
+    "descriptionEn": "kappa salmon",
+    "descriptionKy": "каппа семга",
+    "imagePath": "assets/menu/Роллы/Каппа семга.png",
+    "price": 250,
+    "category": "rolls",
+    "gram": 150,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Каппа авокадо",
+    "nameEn": "Kappa avocado",
+    "nameKy": "Каппа авокадо",
+    "description": "каппа авокадо",
+    "descriptionEn": "kappa avocado",
+    "descriptionKy": "каппа авокадо",
+    "imagePath": "assets/menu/Роллы/Каппа авокадо.png",
+    "price": 230,
+    "category": "rolls",
+    "gram": 130,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Краб маки",
+    "nameEn": "Maki crab",
+    "nameKy": "Краб маки",
+    "description": "каппа краб",
+    "descriptionEn": "kappa crab",
+    "descriptionKy": "каппа краб",
+    "imagePath": "assets/menu/Роллы/Каппа краб.png",
+    "price": 210,
+    "category": "rolls",
+    "gram": 150,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Каппа маки",
+    "nameEn": "Kappa maki",
+    "nameKy": "Каппа маки",
+    "description": "каппа огурец",
+    "descriptionEn": "kappa cucumber",
+    "descriptionKy": "каппа бадыран",
+    "imagePath": "assets/menu/Роллы/Каппа огурец.png",
+    "price": 150,
+    "category": "rolls",
+    "gram": 120,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Тунец каппа",
+    "nameEn": "Tuna kappa",
+    "nameKy": "Тунец каппа",
+    "description": "каппа тунец",
+    "descriptionEn": "kappa tuna",
+    "descriptionKy": "каппа тунец",
+    "imagePath": "assets/menu/Роллы/Каппа тунец.png",
+    "price": 250,
+    "category": "rolls",
+    "gram": 130,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Унаги маки",
+    "nameEn": "Unagi maki",
+    "nameKy": "Унаги маки",
+    "description": "каппа угорь",
+    "descriptionEn": "kappa eel",
+    "descriptionKy": "каппа угорь",
+    "imagePath": "assets/menu/Роллы/Каппа угорь.png",
+    "price": 270,
+    "category": "rolls",
+    "gram": 150,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Ролл авокадо с соусом манго",
+    "nameEn": "Avocado roll with mango sauce",
+    "nameKy": "Манго соусу менен авокадо ролл",
+    "description": "состав: краб, авокадо, манго, лосось и соус руй",
+    "descriptionEn": "ingredients: crab, avocado, mango, salmon and rui sauce",
+    "descriptionKy": "курамы: краб, авокадо, манго, лосось жана руиль соусу",
+    "imagePath": "assets/menu/Роллы/Ролл авокадо с соусом манго.png",
+    "price": 620,
+    "category": "rolls",
+    "gram": 320,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Ролл хрустящая креветка",
+    "nameEn": "Crispy shrimp roll",
+    "nameKy": "Кытырак креветка ролл",
+    "description": "состав: жаренная креветка, авокадо, лосось, нежный сыр и соус унаги",
+    "descriptionEn": "ingredients: fried shrimp, avocado, salmon, tender cheese and unagi sauce",
+    "descriptionKy": "курамы: куурулган чабак, авокадо, лосось, жумшак сыр жана унаги соусу",
+    "imagePath": "assets/menu/Роллы/Ролл хрустящая креветка.jpg",
+    "price": 585,
+    "category": "rolls",
+    "gram": 400,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Филадельфия креветка",
+    "nameEn": "Philadelphia shrimp",
+    "nameKy": "Филадельфия креветка",
+    "description": "состав: нежный сыр, креветка и семга",
+    "descriptionEn": "ingredients: delicate cheese, shrimp and salmon",
+    "descriptionKy": "курамы: жумшак сыр, креветка жана лосось",
+    "imagePath": "assets/menu/Роллы/Фила креветка.png",
+    "price": 550,
+    "category": "rolls",
+    "gram": 300,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Филадельфия сыр",
+    "nameEn": "Philadelphia cheese",
+    "nameKy": "Филадельфия сыр",
+    "description": "состав: нежный сыр и семга",
+    "descriptionEn": "ingredients: tender cheese and salmon",
+    "descriptionKy": "курамы: жумшак сыр жана лосось",
+    "imagePath": "assets/menu/Роллы/Фила сыр.png",
+    "price": 570,
+    "category": "rolls",
+    "gram": 380,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Филадельфия с угрем",
+    "nameEn": "Philadelphia with eel",
+    "nameKy": "Жылан балыгы менен Филадельфия",
+    "description": "Состав: лосось, сыр творожный, соус перечный, икра красная, угорь, огурцы и авокадо ",
+    "descriptionEn": "Ingredients: salmon, curd cheese, pepper sauce, red caviar, eel, cucumbers and avocado",
+    "descriptionKy": "Курамы: лосось, быштак сыр, калемпир соусу, кызыл икра, жылан балыгы, бадыраң жана авокадо",
+    "imagePath": "",
+    "price": 735,
+    "category": "susi",
+    "gram": 310,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Ролл гейша",
+    "nameEn": "Roll geisha",
+    "nameKy": "Ролл гейша",
+    "description": "состав: нежный сыр, тобико, огурцы, семга, тамаго, угорь и соус шрирача",
+    "descriptionEn": "ingredients: tender cheese, tobiko, cucumbers, salmon, tamago, eel and sriracha sauce",
+    "descriptionKy": "курамы: жумшак сыр, тобико, бадыраң, лосось, тамаго, жылан балыгы жана срирача соусу",
+    "imagePath": "assets/menu/Запеченные роллы/Гейша.jpg",
+    "price": 545,
+    "category": "bakedRolls",
+    "gram": 350,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Масака хот",
+    "nameEn": "Masaka hot",
+    "nameKy": "Масака хот",
+    "description": "состав: нежный сыр, тамаго, куриное филе, огурцы, кунжут и фирменный соус",
+    "descriptionEn": "ingredients: tender cheese, tamago, chicken fillet, cucumbers, sesame and signature sauce",
+    "descriptionKy": "курамы: жумшак сыр, тамаго, тоок эти, бадыраң, кунжут жана атайын соус",
+    "imagePath": "assets/menu/Запеченные роллы/Масака хот.jpg",
+    "price": 395,
+    "category": "bakedRolls",
+    "gram": 300,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Запеченный унаги",
+    "nameEn": "Baked unagi",
+    "nameKy": "Бышырылган унаги",
+    "description": "состав: огурцы, жаренная семга, нежный сыр, фирменый соус и соус унаги",
+    "descriptionEn": "ingredients: cucumbers, fried salmon, tender cheese, signature sauce and unagi sauce",
+    "descriptionKy": "Курамы: бадыраң, куурулган лосось, жумшак сыр, атайын соус жана унаги соусу",
+    "imagePath": "assets/menu/Запеченные роллы/Запеченный унаги.jpg",
+    "price": 445,
+    "category": "bakedRolls",
+    "gram": 280,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Аомори",
+    "nameEn": "Aomori",
+    "nameKy": "Аомори",
+    "description": "состав: жаренная семга, нежный сыр, огурец, тобико и фирменный соус",
+    "descriptionEn": "ingredients: fried salmon, tender cheese, cucumber, tobiko and signature sauce",
+    "descriptionKy": "курамы: куурулган лосось, жумшак сыр, бадыраң, тобико жана атайын соус",
+    "imagePath": "assets/menu/Запеченные роллы/Аомори.jpg",
+    "price": 445,
+    "category": "bakedRolls",
+    "gram": 280,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Годзилла",
+    "nameEn": "Godzilla",
+    "nameKy": "Годзилла",
+    "description": "состав: тигровая креветка, нежный сыр, тобико и фирменный соус",
+    "descriptionEn": "ingredients: tiger shrimp, delicate cheese, tobiko and signature sauce",
+    "descriptionKy": "курамы: жолборс креветкасы, жумшак сыр, тобико жана атайын соус",
+    "imagePath": "assets/menu/Запеченные роллы/Годзилла.jpg",
+    "price": 475,
+    "category": "bakedRolls",
+    "gram": 300,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Аригато",
+    "nameEn": "Arigato",
+    "nameKy": "Аригато",
+    "description": "состав: угорь, снежный краб, авокадо, нежный сыр, кунжут и фирменный соус",
+    "descriptionEn": "ingredients: eel, snow crab, avocado, tender cheese, sesame and signature sauce",
+    "descriptionKy": "курамы: жылан балыгы, кар краб, авокадо, жумшак сыр, кунжут жана атайын соус",
+    "imagePath": "assets/menu/Запеченные роллы/Аригато.jpg",
+    "price": 525,
+    "category": "bakedRolls",
+    "gram": 350,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Дама в красном",
+    "nameEn": "Lady in red",
+    "nameKy": "Кызыл кийген айым",
+    "description": "состав: семга, снежный краб, огурец, нежный сыр, тобико и фирменный соус",
+    "descriptionEn": "ingredients: salmon, snow crab, cucumber, tender cheese, tobiko and signature sauce",
+    "descriptionKy": "курамы: лосось, кар краб, бадыраң, жумшак сыр, тобико жана атайын соус",
+    "imagePath": "assets/menu/Запеченные роллы/Дама в красном.jpg",
+    "price": 405,
+    "category": "bakedRolls",
+    "gram": 300,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Запеченный ролл с угрем",
+    "nameEn": "Baked roll with eel",
+    "nameKy": "Угорь менен бышырылган ролл",
+    "description": "состав: угорь, огурец, кунжут, фирменный соус и соус унаги",
+    "descriptionEn": "ingredients: eel, cucumber, sesame, signature sauce and unagi sauce",
+    "descriptionKy": "курамы: угорь, бадыран, кунжут, фирменный соус жана унаги соус",
+    "imagePath": "assets/menu/Запеченные роллы/Запеченный ролл с угрем.png",
+    "price": 435,
+    "category": "bakedRolls",
+    "gram": 280,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Ролл запеченная креветка",
+    "nameEn": "Baked shrimp roll",
+    "nameKy": "Бышырылган креветка ролл",
+    "description": "состав: огурец, соус чесночный, жаренная креветка, фирменный соус и соус унаги",
+    "descriptionEn": "ingredients: cucumber, garlic sauce, fried shrimp, signature sauce and unagi sauce",
+    "descriptionKy": "курамы: бадыран, сарымсак соусу, куурулган креветка, фирменный соус жана унаги соус",
+    "imagePath": "assets/menu/Запеченные роллы/Запеченный ролл с креветкой.png",
+    "price": 550,
+    "category": "bakedRolls",
+    "gram": 400,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Темпура Осака",
+    "nameEn": "Tempura Osaka",
+    "nameKy": "Темпура Осака",
+    "description": "состав: семга, снежный краб, огурец, нежный сыр, тобико и спайси соус",
+    "descriptionEn": "ingredients: salmon, snow crab, cucumber, tender cheese, tobiko and spicy sauce",
+    "descriptionKy": "курамы: семге, кар краб, бадыран, жумшак сыр, тобико жана ачуу соус",
+    "imagePath": "assets/menu/Темпура роллы/Темпура осака.jpg",
+    "price": 375,
+    "category": "tempuraRolls",
+    "gram": 350,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Темпура чикен",
+    "nameEn": "Tempura chiken",
+    "nameKy": "Темпура чикен",
+    "description": "состав: курица, помидор, нежный сыр, листья салата, спайси соус и сыр пармезан",
+    "descriptionEn": "ingredients: chicken, tomato, tender cheese, lettuce leaves, spicy sauce and parmesan cheese",
+    "descriptionKy": "курамы: тоок, помидор, жумшак сыр, салат жалбырактары, ачуу соус жана пармезан сыры",
+    "imagePath": "assets/menu/Темпура роллы/Темпура чикен.jpg",
+    "price": 345,
+    "category": "tempuraRolls",
+    "gram": 350,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Юдзава",
+    "nameEn": "Yuzawa",
+    "nameKy": "Юдзава",
+    "description": "состав: угорь, огурец, снежный краб, тобико, кунжут, унаги соус и спайси соус",
+    "descriptionEn": "ingredients: eel, cucumber, snow crab, tobiko, sesame, unagi sauce and spicy sauce",
+    "descriptionKy": "курамы: угорь, бадыран, кар кыраны, тобико, кунжут, унаги соусу жана ачуу соус",
+    "imagePath": "assets/menu/Темпура роллы/Юдзава.jpg",
+    "price": 375,
+    "category": "tempuraRolls",
+    "gram": 400,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Синсиро",
+    "nameEn": "Shinshiro",
+    "nameKy": "Синсиро",
+    "description": "состав: тунец, снежный краб, нежный сыр, огурец и соус пармежано",
+    "descriptionEn": "ingredients: tuna, snow crab, tender cheese, cucumber and parmegano sauce",
+    "descriptionKy": "курамы: тунец, кар кыраны, жумшак сыр, бадыран жана пармежано соусу",
+    "imagePath": "assets/menu/Темпура роллы/Синсиро.jpg",
+    "price": 455,
+    "category": "tempuraRolls",
+    "gram": 400,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Темпура чука",
+    "nameEn": "Tempura chuka",
+    "nameKy": "Темпура чука",
+    "description": "состав: угорь, снежный краб, авокадо, нежный сыр, чука, спайси соус и кунжут",
+    "descriptionEn": "ingredients: eel, snow crab, avocado, tender cheese, chuka, spicy sauce and sesame",
+    "descriptionKy": "курамы: угорь, кар кыраны, авокадо, жумшак сыр, чука, ачуу соус жана кунжут",
+    "imagePath": "assets/menu/Темпура роллы/Темпура чука.jpg",
+    "price": 445,
+    "category": "tempuraRolls",
+    "gram": 400,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Темпура унаги",
+    "nameEn": "Tempura unagi",
+    "nameKy": "Темпура унаги",
+    "description": "состав: нежный сыр, угорь, огурец, унаги и спайси соус",
+    "descriptionEn": "ingredients: tender cheese, eel, cucumber, unagi and spicy sauce",
+    "descriptionKy": "курамы: жумшак сыр, угорь, бадыран, унаги жана ачуу соус",
+    "imagePath": "assets/menu/Темпура роллы/Темпура унаги.jpg",
+    "price": 375,
+    "category": "tempuraRolls",
+    "gram": 320,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Темпура love",
+    "nameEn": "Tempura love",
+    "nameKy": "Темпура махабат",
+    "description": "состав: лосось, авокадо, угорь, нежный сыр и соус унаги",
+    "descriptionEn": "ingredients: salmon, avocado, eel, tender cheese and unagi sauce",
+    "descriptionKy": "курамы: семге, авокадо, угорь, жумшак сыр жана унаги соус",
+    "imagePath": "assets/menu/Темпура роллы/Love.png",
+    "price": 675,
+    "category": "tempuraRolls",
+    "gram": 400,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Студент",
+    "nameEn": "Student",
+    "nameKy": "Студент",
+    "description": "состав: 40 шт каппа огурец, каппа краб, каппа семга, каппа угорь и каппа креветка",
+    "descriptionEn": "ingredients: 40 pcs kappa cucumber, kappa crab, kappa salmon, kappa eel and kappa shrimp",
+    "descriptionKy": "курамы: 40 даана каппа бадыран, каппа краб, каппа семга, каппа угорь жана каппа креветка",
+    "imagePath": "assets/menu/Сеты/Студент.jpg",
+    "price": 795,
+    "category": "sets",
+    "gram": 900,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "MASAKA",
+    "nameEn": "MASAKA",
+    "nameKy": "MASAKA",
+    "description": "состав: 64шт каппа маки, каппа краб, каппа креветка, магуро, унаги филка, бостон, краб креветка и ролл тортилья с семгой",
+    "descriptionEn": "ingredients: 64pcs kappa maki, kappa crab, kappa shrimp, maguro, unagi filka, boston, shrimp crab and tortilla roll with salmon",
+    "descriptionKy": "курамы: 64 даана каппа маки, каппа краб, каппа креветка, магуро, унаги филка, бостон, креветка краб жана тортилья ролл семге менен",
+    "imagePath": "assets/menu/Сеты/Масака.jpg",
+    "price": 2155,
+    "category": "sets",
+    "gram": 1600,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "HOT",
+    "nameEn": "HOT",
+    "nameKy": "HOT",
+    "description": "состав: 40шт юдзава, темпура чикен, темпура чука, аомори и аригато",
+    "descriptionEn": "ingredients: 40pcs yuzawa, tempura chicken, tempura chuka, aomori and arigato",
+    "descriptionKy": "курамы: 40 даана юдзава, темпура чикен, темпура чука, аомори жана аригато",
+    "imagePath": "assets/menu/Сеты/HOT.jpg",
+    "price": 1795,
+    "category": "sets",
+    "gram": 1600,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Классический",
+    "nameEn": "Classic",
+    "nameKy": "Классикалык",
+    "description": "состав: 32шт филадельфия классик, калифорния классик, унаги филка и каппа огурец",
+    "descriptionEn": "ingredients: 32pcs philadelphia classic, california classic, unagi filka and kappa cucumber",
+    "descriptionKy": "курамы: 32 даана филадельфия классик, калифорния классик, унаги филка жана каппа бадыран",
+    "imagePath": "assets/menu/Сеты/Классический.jpg",
+    "price": 1415,
+    "category": "sets",
+    "gram": 900,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Обед сумоиста",
+    "nameEn": "Sumoist's lunch",
+    "nameKy": "Сумоисттин түшкү тамагы",
+    "description": "состав: 40шт темпура креветка, темпура осака, филадельфия классик, калифорния классик и аригато",
+    "descriptionEn": "ingredients: 40pcs tempura shrimp, tempura osaka, philadelphia classic, california classic and arigato",
+    "descriptionKy": "курамы: 40 даана темпура креветка, темпура осака, филадельфия классик, калифорния классик жана аригато",
+    "imagePath": "assets/menu/Сеты/Обед сумоиста.jpg",
+    "price": 1955,
+    "category": "sets",
+    "gram": 1500,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Ужин сумоиста",
+    "nameEn": "Sumoist's dinner",
+    "nameKy": "Сумоисттин кечки тамагы",
+    "description": "состав: 62шт филадельфия классик, калифорния классик, юдзава, каппа огурец, каппа семга, каппа краб, ролл лава, суси из тунца, суси из семги, суси из креветки, гункан с семгой, гункан с крабом и гункан с угрем",
+    "descriptionEn": "ingredients: 62pcs philadelphia classic, california classic, yuzawa, kappa cucumber, kappa salmon, kappa crab, lava roll, tuna sushi, salmon sushi, shrimp sushi, gunkan with salmon, gunkan with crab and gunkan with eel",
+    "descriptionKy": "курамы: 62 даана филадельфия классик, калифорния классик, юдзава, каппа бадыран, каппа семга, каппа краб, лава ролл, тунец суси, семга суси, креветка суси, семга гункан, краб гункан жана угорь гункан",
+    "imagePath": "assets/menu/Сеты/Ужин сумоиста.jpg",
+    "price": 2355,
+    "category": "sets",
+    "gram": 1900,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Семейный",
+    "nameEn": "Family",
+    "nameKy": "Үй-бүлөлүк",
+    "description": "состав: 44шт филадельфия классик, синсиро, аригато, камикадзе, ролл лава, суси из тунца, суси из угря, суси из семги и суси из креветки",
+    "descriptionEn": "ingredients: 44pcs philadelphia classic, shinshiro, arigato, kamikaze, lava roll, tuna sushi, eel sushi, salmon sushi and shrimp sushi",
+    "descriptionKy": "курамы: 44 даана филадельфия классик, синсиро, аригато, камикадзе, лава ролл, тунец суси, угорь суси, семга суси жана креветка суси",
+    "imagePath": "assets/menu/Сеты/Семейный.jpg",
+    "price": 2795,
+    "category": "sets",
+    "gram": 2200,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Мини",
+    "nameEn": "Mini",
+    "nameKy": "Мини",
+    "description": "состав: 24шт каппа огурец, каппа креветка и калифорния классик",
+    "descriptionEn": "ingredients: 24pcs kappa cucumber, kappa shrimp and california classic",
+    "descriptionKy": "курамы: 24 даана каппа бадыран, каппа креветка жана калифорния классик",
+    "imagePath": "assets/menu/Сеты/Мини.png",
+    "price": 650,
+    "category": "sets",
+    "gram": 650,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Хит",
+    "nameEn": "Hit",
+    "nameKy": "Хит",
+    "description": "состав: 32шт филадельфия классик, годзилла, темпура унаги и юдзава",
+    "descriptionEn": "ingredients: 32pcs philadelphia classic, godzilla, tempura unagi and yuzawa",
+    "descriptionKy": "курамы: 32 даана филадельфия классик, годзилла, темпура унаги жана юдзава",
+    "imagePath": "assets/menu/Сеты/Хит.png",
+    "price": 1665,
+    "category": "sets",
+    "gram": 1100,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Темпура",
+    "nameEn": "Tempura",
+    "nameKy": "Темпура",
+    "description": "состав: 40шт темпура love, юдзава, темпура чикен, темпура чука и синсиро",
+    "descriptionEn": "ingredients: 40pcs tempura love, yuzawa, tempura chicken, tempura chuka and shinshiro",
+    "descriptionKy": "курамы: 40 даана темпура махабат, юдзава, темпура чикен, темпура чука жана синсиро",
+    "imagePath": "assets/menu/Сеты/Темпура.png",
+    "price": 1675,
+    "category": "sets",
+    "gram": 1800,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Куриный бульон с лапшой",
+    "nameEn": "Chicken broth with noodles",
+    "nameKy": "Тоок шорпосу кесме менен",
+    "description": "состав: куриное филе, лапша удон и куриное яйцо",
+    "descriptionEn": "ingredients: chicken fillet, udon noodles and chicken egg",
+    "descriptionKy": "курамы: тооктун филеси, удон кесмеси жана тооктун жумурткасы",
+    "imagePath": "assets/menu/Детское меню/Куриный бульон с лапшой.jpg",
+    "price": 220,
+    "category": "kidsMenu",
+    "gram": 150,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Куриные нагетсы",
+    "nameEn": "Chicken nuggets",
+    "nameKy": "Тоок нагетстери",
+    "description": "состав: куриное филе в кляре с чесночным соусом",
+    "descriptionEn": "ingredients: chicken fillet in batter with garlic sauce",
+    "descriptionKy": "курамы: тоок филеси клярда чеснок соусу менен",
+    "imagePath": "assets/menu/Детское меню/Куриные нагетсы.jpg",
+    "price": 295,
+    "category": "kidsMenu",
+    "gram": 330,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Пончики Berliners",
+    "nameEn": "Donuts Berliners",
+    "nameKy": "Berliners пончиктери",
+    "description": "Ванильные - 130 сом \\nФисташка-Малина - 170 сом \\nШоколад-Банан - 170 сом\\nКрем Чиз-Вишня - 170 сом\\nРафаэлло - 170 сом\\nКрем Брюле - 170 сом\\nМанго-Маракуйя - 170 сом",
+    "descriptionEn": "Vanilla - 130 som \\nPistachio-Raspberry - 170 som \\nChocolate Banana - 170 som\\nCream Cheese-Cherry - 170 som\\nRaffaello - 170 som\\nCreme Brulee - 170 som\\nMango-Passion Fruit - 170 som",
+    "descriptionKy": "Ваниль - 130 сом \\nМисте-малина - 170 сом \\nШоколаддуу банан - 170 сом\\nСыр-алча каймак - 170 сом\\nРаффаэлло - 170 сом\\nКрем Брюли - 170 сом\\nМанго-Пассион мөмөсү - 170 сом",
+    "imagePath": "assets/menu/Десерты/donuts.jpg",
+    "price": "",
+    "category": "deserts",
+    "gram": "",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Те самые Макаронсы в ассортименте",
+    "nameEn": "Those same Macarons in assortment",
+    "nameKy": "Озгочо Макаронс ассортиментте",
+    "description": "",
+    "descriptionEn": "",
+    "descriptionKy": "",
+    "imagePath": "assets/menu/Десерты/macarons.jpg",
+    "price": 195,
+    "category": "deserts",
+    "gram": "",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Мадлены от Сабины в ассортименте",
+    "nameEn": "Madeleines from Sabina in assortment",
+    "nameKy": "Ассортиментте Сабинадан Мадлендер",
+    "description": "",
+    "descriptionEn": "",
+    "descriptionKy": "",
+    "imagePath": "assets/menu/Десерты/madlen.jpg",
+    "price": 90,
+    "category": "deserts",
+    "gram": "",
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Моти",
+    "nameEn": "Moti",
+    "nameKy": "Моти",
+    "description": "состав: рисовое тесто и начинка на выбор",
+    "descriptionEn": "ingredients: rice dough and filling to choose from",
+    "descriptionKy": "курамы: күрүчтөн жасалган камыр жана тандоо үчүн начинка",
+    "imagePath": "assets/menu/Десерты/Моти.png",
+    "price": 240,
+    "category": "deserts",
+    "gram": 180,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "Десертные роллы",
+    "nameEn": "Dessert rolls",
+    "nameKy": "Десерт роллдору",
+    "description": "состав: киви, банан, творожный сыр, топпинг, сахарная пудра и кокосовые стружки",
+    "descriptionEn": "ingredients: kiwi, banana, cottage cheese, topping, powdered sugar and coconut chips",
+    "descriptionKy": "курамы: киви, банан, быштак, топпинг, кумшекер пудрасы жана кокос талканча",
+    "imagePath": "assets/menu/Десерты/Десертные роллы.png",
+    "price": 250,
+    "category": "deserts",
+    "gram": 150,
+    "ingr": [
+
+
+
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "НАПИТКИ",
+    "nameEn": "DRINKS",
+    "nameKy": "СУУСУНДУКТАР",
+    "description": "",
+    "descriptionEn": "",
+    "descriptionKy": "",
+    "imagePath": "",
+    "price": "",
+    "category": "drinks",
+    "gram": "",
+    "ingr": [
+      {
+        "name": "BONAQUA",
+        "nameEn": "BONAQUA",
+        "nameKy": "BONAQUA",
+        "size": "0,5/1л",
+        "sizeEn": "0.5/1l",
+        "price": "50/90"
+      },
+      {
+        "name": "COCACOLA/FANTA/SPRITE",
+        "nameEn": "COCACOLA/FANTA/SPRITE",
+        "nameKy": "COCACOLA/FANTA/SPRITE",
+        "size": "0,25/1л",
+        "sizeEn": "0.25/1l",
+        "price": "80/160"
+      },
+      {
+        "name": "ВОДА С ЛИМОНОМ",
+        "nameEn": "WATER WITH LEMON",
+        "nameKy": "ЛИМОНДУУ СУУ",
+        "size": "графин",
+        "sizeEn": "carafe",
+        "price": 120
+      },
+      {
+        "name": "СОК В АССОРТИМЕНТЕ",
+        "nameEn": "ASSORTED JUICE",
+        "nameKy": "ТҮРДҮҮ ШИРЕ",
+        "size": "1л",
+        "sizeEn": "1l",
+        "price": 250
+      }
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "ЧАИ",
+    "nameEn": "TEAS",
+    "nameKy": "ЧАЙЛАР",
+    "description": "",
+    "descriptionEn": "",
+    "descriptionKy": "",
+    "imagePath": "",
+    "price": "",
+    "category": "drinks",
+    "gram": "",
+    "ingr": [
+      {
+        "name": "Чай имбирный с лемонграсом",
+        "nameEn": "GINGER LEMONGRASS TEA",
+        "nameKy": "Чай имбирный с лемонграсом",
+        "size": "800мл",
+        "sizeEn": "800ml",
+        "price": 250
+      },
+      {
+        "name": "Чай маракуйя Малина-Бергамот",
+        "nameEn": "PASSION FRUIT RASPBERRY-BERGAMOT TEA",
+        "nameKy": "Чай маракуйя Малина-Бергамот",
+        "size": "800мл",
+        "sizeEn": "800ml",
+        "price": 250
+      },
+      {
+        "name": "Чай Облепиха-Апельсин",
+        "nameEn": "SEA BUCKTHORN-ORANGE TEA",
+        "nameKy": "Чай Облепиха-Апельсин",
+        "size": "800мл",
+        "sizeEn": "800ml",
+        "price": 250
+      },
+      {
+        "name": "Чай персик бергамот",
+        "nameEn": "PEACH BERGAMOT TEA",
+        "nameKy": "Чай персик бергамот",
+        "size": "800мл",
+        "sizeEn": "800ml",
+        "price": 250
+      },
+      {
+        "name": "Чай Ягодный с мятой",
+        "nameEn": "BERRY MINT TEA",
+        "nameKy": "Чай Ягодный с мятой",
+        "size": "800мл",
+        "sizeEn": "800ml",
+        "price": 250
+      },
+      {
+        "name": "ТАШКЕНТСКИЙ",
+        "nameEn": "TASHKENT",
+        "nameKy": "ТАШКЕНТ",
+        "size": "",
+        "sizeEn": "",
+        "price": 240
+      },
+      {
+        "name": "ЧЕРНЫЙ / ЗЕЛЕНЫЙ",
+        "nameEn": "BLACK / GREEN",
+        "nameKy": "КАРА / ЖАШЫЛ",
+        "size": "",
+        "sizeEn": "",
+        "price": 100
+      }
+
+
+    ]
+  },
+  {
+
+    "name": "ЭЛИТНЫЕ ЧАИ",
+    "nameEn": "ELITE TEAS",
+    "nameKy": "ЭЛИТАЛЫК ЧАЙЛАР",
+    "description": "",
+    "descriptionEn": "",
+    "descriptionKy": "",
+    "imagePath": "",
+    "price": "",
+    "category": "drinks",
+    "gram": "",
+    "ingr": [
+      {
+        "name": "ТЭ ГУАНЬ ИНЬ",
+        "nameEn": "TE GUAN YIN",
+        "nameKy": "ТЭ ГУАНЬ ИНЬ",
+        "size": "",
+        "sizeEn": "",
+        "price": 150
+      },
+      {
+        "name": "МОЛОЧНЫЙ УЛУН",
+        "nameEn": "MILKY OOLONG",
+        "nameKy": "СҮТТҮҮ УЛУН",
+        "size": "",
+        "sizeEn": "",
+        "price": 150
+      },
+      {
+        "name": "ЖАСМИНОВЫЙ",
+        "nameEn": "JASMINE",
+        "nameKy": "ЖАСМИН",
+        "size": "",
+        "sizeEn": "",
+        "price": 150
+      }
+
+
+
+
+
+
+    ]
+  },
+  {
+
+    "name": "ЛИМОНАДЫ",
+    "nameEn": "LEMONADES",
+    "nameKy": "ЛИМОНАДТАР",
+    "description": "",
+    "descriptionEn": "",
+    "descriptionKy": "",
+    "imagePath": "",
+    "price": "",
+    "category": "drinks",
+    "gram": "",
+    "ingr": [
+      {
+        "name": "Лимонад Клубника Райхон",
+        "nameEn": "STRAWBERRY RAYHON LEMONADE",
+        "nameKy": "Лимонад Клубника Райхон",
+        "size": "330мл/1л",
+        "sizeEn": "330ml/1L",
+        "price": "190/290"
+      },
+      {
+        "name": "Лимонад Ягодный",
+        "nameEn": "BERRY LEMONADE",
+        "nameKy": "Лимонад Ягодный",
+        "size": "330мл/1л",
+        "sizeEn": "330ml/1L",
+        "price": "190/290"
+      },
+      {
+        "name": "Лимонад Киви Алое-Лайм",
+        "nameEn": "KIWI ALOE-LIME LEMONADE",
+        "nameKy": "Лимонад Киви Алое-Лайм",
+        "size": "330мл/1л",
+        "sizeEn": "330ml/1L",
+        "price": "190/290"
+      },
+      {
+        "name": "Лимонад манго маракуя",
+        "nameEn": "MANGO PASSION FRUIT LEMONADE",
+        "nameKy": "Лимонад манго маракуя",
+        "size": "330мл/1л",
+        "sizeEn": "330ml/1L",
+        "price": "190/320"
+      },
+      {
+        "name": "Лимонад облепиха апельсин",
+        "nameEn": "SEA BUCKTHORN ORANGE LEMONADE",
+        "nameKy": "Лимонад облепиха апельсин",
+        "size": "330мл/1л",
+        "sizeEn": "330ml/1L",
+        "price": "190/290"
+      },
+      {
+        "name": "Лимонад Черная смородина мята",
+        "nameEn": "BLACKCURRANT MINT LEMONADE",
+        "nameKy": "Лимонад Черная смородина мята",
+        "size": "330мл/1л",
+        "sizeEn": "330ml/1L",
+        "price": "190/400"
+      }
+
+
+
+    ]
+  },
+  {
+
+    "name": "МИЛКШЕЙК",
+    "nameEn": "MILKSHAKES",
+    "nameKy": "МИЛКШЕЙК",
+    "description": "",
+    "descriptionEn": "",
+    "descriptionKy": "",
+    "imagePath": "",
+    "price": "",
+    "category": "drinks",
+    "gram": "",
+    "ingr": [
+      {
+        "name": "Милкшейк OREO",
+        "nameEn": "OREO MILKSHAKE",
+        "nameKy": "Милкшейк OREO",
+        "size": "300мл",
+        "sizeEn": "300ml",
+        "price": 260
+      },
+      {
+        "name": "Милкшейк банановый",
+        "nameEn": "BANANA MILKSHAKE",
+        "nameKy": "Милкшейк банановый",
+        "size": "300мл",
+        "sizeEn": "300ml",
+        "price": 200
+      },
+      {
+        "name": "Милкшейк Ванильный",
+        "nameEn": "VANILLA MILKSHAKE",
+        "nameKy": "Милкшейк Ванильный",
+        "size": "300мл",
+        "sizeEn": "300ml",
+        "price": 200
+      },
+      {
+        "name": "Милкшейк клубничный",
+        "nameEn": "STRAWBERRY MILKSHAKE",
+        "nameKy": "Милкшейк клубничный",
+        "size": "300мл",
+        "sizeEn": "300ml",
+        "price": 200
+      },
+      {
+        "name": "Милкшейк шоколадный",
+        "nameEn": "CHOCOLATE MILKSHAKE",
+        "nameKy": "Милкшейк шоколадный",
+        "size": "300мл",
+        "sizeEn": "300ml",
+        "price": 200
+      }
+
+
+
+    ]
+  },
+  {
+
+    "name": "КОФЕ",
+    "nameEn": "COFFEE",
+    "nameKy": "КОФЕ",
+    "description": "",
+    "descriptionEn": "",
+    "descriptionKy": "",
+    "imagePath": "",
+    "price": "",
+    "category": "drinks",
+    "gram": "",
+    "ingr": [
+      {
+        "name": "Айс-Американо",
+        "nameEn": "ICE AMERICANO",
+        "nameKy": "Айс-Американо",
+        "size": "300мл",
+        "sizeEn": "300ml",
+        "price": 120
+      },
+      {
+        "name": "Айс-Латте",
+        "nameEn": "ICE LATTE",
+        "nameKy": "Айс-Латте",
+        "size": "300мл",
+        "sizeEn": "300ml",
+        "price": 165
+      },
+      {
+        "name": "Американо",
+        "nameEn": "AMERICANO",
+        "nameKy": "Американо",
+        "size": "300мл",
+        "sizeEn": "300ml",
+        "price": 120
+      },
+      {
+        "name": "Капучино",
+        "nameEn": "CAPPUCCINO",
+        "nameKy": "Капучино",
+        "size": "300мл",
+        "sizeEn": "300ml",
+        "price": 120
+      },
+      {
+        "name": "Латте",
+        "nameEn": "LATTE",
+        "nameKy": "Латте",
+        "size": "300мл",
+        "sizeEn": "300ml",
+        "price": 120
+      },
+      {
+        "name": "Раф",
+        "nameEn": "RAF",
+        "nameKy": "Раф",
+        "size": "300мл",
+        "sizeEn": "300ml",
+        "price": 200
+      },
+      {
+        "name": "Флэт Уайт",
+        "nameEn": "FLAT WHITE",
+        "nameKy": "Флэт Уайт",
+        "size": "300мл",
+        "sizeEn": "300ml",
+        "price": 200
+      },
+      {
+        "name": "Фраппучино",
+        "nameEn": "FRAPPUCCINO",
+        "nameKy": "Фраппучино",
+        "size": "300мл",
+        "sizeEn": "300ml",
+        "price": 200
+      },
+      {
+        "name": "Эспрессо",
+        "nameEn": "ESPRESSO",
+        "nameKy": "Эспрессо",
+        "size": "30мл",
+        "sizeEn": "30ml",
+        "price": 120
+      }
+    ]
+  },
+  {
+
+    "name": "ДОБАВКИ",
+    "nameEn": "ADDITIVES",
+    "nameKy": "КОШУМЧАЛАР",
+    "description": "",
+    "descriptionEn": "",
+    "descriptionKy": "",
+    "imagePath": "",
+    "price": "",
+    "category": "drinks",
+    "gram": "",
+    "ingr": [
+      {
+        "name": "Корица",
+        "nameEn": "Cinnamon",
+        "nameKy": "Корица",
+        "size": "",
+        "sizeEn": "",
+        "price": 50
+      },
+      {
+        "name": "Лимон",
+        "nameEn": "Cinnamon",
+        "nameKy": "Lemon",
+        "size": "",
+        "sizeEn": "",
+        "price": 50
+      },
+      {
+        "name": "Мед",
+        "nameEn": "Honey",
+        "nameKy": "Бал",
+        "size": "",
+        "sizeEn": "",
+        "price": 50
+      },
+      {
+        "name": "Молоко",
+        "nameEn": "Milk",
+        "nameKy": "Сут",
+        "size": "",
+        "sizeEn": "",
+        "price": 30
+      },
+      {
+        "name": "Мята",
+        "nameEn": "Mint",
+        "nameKy": "Мята",
+        "size": "",
+        "sizeEn": "",
+        "price": 50
+      },
+      {
+        "name": "Сироп",
+        "nameEn": "Syrup",
+        "nameKy": "Сироп",
+        "size": "50мл",
+        "sizeEn": "50ml",
+        "price": 50
+      }
+
+
+
+    ]
+  }]
