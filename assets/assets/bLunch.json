@@ -342,7 +342,7 @@
 					"description": "Хумус, авокадо, авокадо соус, очищенные помидоры, кинза, микро зелень.",
 					"descriptionEn": "Hummus, avocado, avocado sauce, peeled tomatoes, cilantro, microgreens.",
 					"descriptionKy": "Хумус, авокадо, авокадо соусу, тазаланган помидорлор, кинза, микро жашылчалар.",
-					"price": "410",
+					"price": "485",
 					"gram": "280гр",
 					"gramKy": "280гр",
 					"gramEn": "280g",
@@ -538,21 +538,7 @@
 					"imagePath": "assets/menu/hotSnacks/image3.jpg",
 					"ingr": []
 				},
-				{
-					"category": "hotSnacks",
-					"name": "Пепперони с запеченной фасолью",
-					"nameEn": "Pepperoni with Baked Beans",
-					"nameKy": "Пепперони менен бышырылган фасоль",
-					"description": "",
-					"descriptionEn": "",
-					"descriptionKy": "",
-					"price": "1470",
-					"gram": "750гр",
-					"gramKy": "750гр",
-					"gramEn": "750g",
-					"imagePath": "assets/menu/hotSnacks/image4.jpg",
-					"ingr": []
-				},
+
 				{
 					"category": "hotSnacks",
 					"name": "Baja Tako",
@@ -1194,6 +1180,21 @@
 					"gramKy": "450гр",
 					"gramEn": "450g",
 					"imagePath": "assets/menu/hotDishes/image6.jpg",
+					"ingr": []
+				},
+				{
+					"category": "hotDishes",
+					"name": "Пепперони с запеченной фасолью",
+					"nameEn": "Pepperoni with Baked Beans",
+					"nameKy": "Пепперони менен бышырылган фасоль",
+					"description": "",
+					"descriptionEn": "",
+					"descriptionKy": "",
+					"price": "1470",
+					"gram": "750гр",
+					"gramKy": "750гр",
+					"gramEn": "750g",
+					"imagePath": "assets/menu/hotSnacks/image4.jpg",
 					"ingr": []
 				},
 				{
